@@ -9,7 +9,7 @@
 
 | Nombre completo   | Cédula         |
 | ---------------   | -------------- |
-| Santiago Acevedo  | [N° de cédula] |
+| Santiago Acevedo  | 1000191527 |
 | Santiago Betancur | [N° de cédula] |
 | Jeronimo Acosta   | 1000410386     |
 
