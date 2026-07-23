@@ -1,0 +1,533 @@
+consulta_id,fecha,comuna_id,comuna_nombre,edad,sexo,sintoma_principal,nivel_urgencia,resultado,lat,lon
+C00345,2025-06-03,10,La Candelaria,49.0,M,Fiebre,Media,Ambulatorio,6.24433,-75.56858
+C00185,2025-05-31,2,Santa Cruz,42.0,M,Dificultad respiratoria,Baja,,6.29023,-75.54868
+C00224,2025-06-04,6,Doce de Octubre,54.0,F,Fiebre,,Remitido,6.30382,-75.58769
+C00243,2025-06-16,7,Robledo,68.0,F,Tos persistente,Media,Ambulatorio,6.26408,-75.60056
+C00045,2025-03-12,16,Belén,83.0,F,Fiebre,Baja,Hospitalizado,6.22578,-75.60887
+C00462,2025-06-02,Comuna 14,El Poblado,41.0,F,Cefalea,Baja,Ambulatorio,6.21285,-75.57253
+C00182,2125-06-23,Aranjuez,Aranjuez,25.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.27432,-75.56254
+C00085,2025-02-23,8,Villa Hermosa,32.0,F,Fiebre,Baja,Hospitalizado,6.23872,-75.53753
+C00322,2025-03-29,14,El Poblado,95.0,F,Dificultad respiratoria,Baja,,6.20746,-75.55892
+C00178,2025-03-07,4,Aranjuez,49.0,M,Fiebre,,Hospitalizado,6.2763,-75.5614
+C00393,2025-03-13,Comuna 2,Santa Cruz,52.0,M,Dolor abdominal,Baja,Ambulatorio,6.29165,-75.55019
+C00204,2025-06-13,6,Doce de Octubre,49.0,M,Diarrea,Baja,Ambulatorio,6.28943,-75.59705
+C00103,2025-04-12,9,Buenos Aires,,F,Dolor abdominal,,Remitido,6.23421,-75.55222
+C00429,2025-05-06,14,El Poblado,28.0,M,Fiebre,Baja,Remitido,6.20847,-75.56786
+C00174,2025-04-23,12,La América,71.0,M,Dolor abdominal,Baja,Remitido,6.24074,-75.59527
+C00309,2025-05-23,6,Doce de Octubre,34.0,M,Fiebre,Alta,Ambulatorio,6.30448,-75.57813
+C00104,2025-04-18,4,Aranjuez,36.0,F,Dificultad respiratoria,Baja,Remitido,6.28079,-75.56531
+C00110,2025-04-02,2,Santa Cruz,38.0,M,Tos persistente,Baja,Ambulatorio,6.29752,-75.54471
+C00262,2025-02-10,Comuna 9,Buenos Aires,23.0,M,Fiebre,Media,Ambulatorio,6.21905,-75.55541
+C00489,2125-04-01,11,Laureles,6.0,F,Dificultad respiratoria,Media,Ambulatorio,6.24348,-75.59646
+C00501,2025-03-26,7,Robledo,62.0,F,Tos persistente,Media,Ambulatorio,6.26958,-75.58934
+C00200,2025-04-10,8,Villa Hermosa,60.0,F,Dificultad respiratoria,Alta,Ambulatorio,6.24588,-75.53669
+C00461,2025-05-09,9,Buenos Aires,22.0,F,Cefalea,Baja,Ambulatorio,6.23281,-75.56361
+C00030,2025-06-21,5,Castilla,54.0,F,Dolor abdominal,,Ambulatorio,6.29677,-75.58144
+C00404,2025-05-01,8,Villa Hermosa,36.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.25153,-75.54532
+C00388,2025-06-19,14,El Poblado,16.0,F,Diarrea,Baja,Ambulatorio,6.21807,-75.57166
+C00072,2025-03-05,12,La América,,M,Dificultad respiratoria,Baja,Ambulatorio,6.24014,-75.61095
+C00176,11-04-2025,2,Santa Cruz,78.0,M,Dificultad respiratoria,Alta,Ambulatorio,6.29273,-75.54939
+C00191,2025-03-23,4,Aranjuez,14.0,F,Cefalea,Media,Ambulatorio,6.26326,-75.56201
+C00022,03/24/2025,8,Villa Hermosa,22.0,F,Cefalea,Baja,Ambulatorio,6.24123,-75.53556
+C00503,06/01/2025,2,Santa Cruz,91.0,M,Dolor abdominal,Media,Ambulatorio,6.28756,-75.56407
+C00319,2125-04-17,11,Laureles,34.0,F,Dolor abdominal,Baja,Ambulatorio,6.23506,-75.58253
+C00051,2025-06-22,5,Castilla,26.0,M,Dolor abdominal,Baja,Ambulatorio,6.29516,-75.5695
+C00192,2025-03-24,11,Laureles,62.0,F,Tos persistente,,Ambulatorio,6.2356,-75.58225
+C00403,2025-05-01,El Poblado,El Poblado,34.0,F,Diarrea,Baja,,6.21509,-75.57164
+C00011,2025-02-10,7,Robledo,43.0,F,Dolor abdominal,Baja,Ambulatorio,6.26233,-75.58447
+C00283,05/10/2025,5,Castilla,51.0,F,Tos persistente,Baja,Ambulatorio,6.29025,-75.58259
+C00073,28-05-2025,16,Belén,77.0,F,Dolor abdominal,Alta,Ambulatorio,6.22036,-75.6041
+C00120,06/13/2025,7,Robledo,42.0,M,Dolor abdominal,Media,Ambulatorio,6.26264,-75.58854
+C00122,2025-06-20,Laureles,Laureles,20.0,,Dolor abdominal,Baja,Remitido,6.23964,-75.59873
+C00401,2125-06-15,15,Guayabal,26.0,M,Diarrea,Alta,Ambulatorio,6.22374,-75.59394
+C00146,2125-06-23,8,Villa Hermosa,57.0,M,Fiebre,Baja,Ambulatorio,6.23979,-75.55241
+C00476,2025-05-14,5,Castilla,87.0,F,Diarrea,Baja,Ambulatorio,6.29277,-75.57211
+C00290,2025-04-13,12,La América,74.0,M,Cefalea,Baja,Ambulatorio,6.24105,-75.59785
+C00084,2025-04-13,2,Santa Cruz,95.0,M,Tos persistente,Baja,Ambulatorio,6.30086,-75.56225
+C00343,2025-03-16,5,Castilla,28.0,F,Fiebre,Media,Hospitalizado,6.29604,-75.57213
+C00256,2025-06-11,1,Popular,150.0,M,Fiebre,Media,Hospitalizado,6.30842,-75.55967
+C00486,2025-02-25,Villa Hermosa,Villa Hermosa,20.0,F,Dolor abdominal,Baja,Ambulatorio,,
+C00284,2025-06-23,13,San Javier,39.0,M,Diarrea,Baja,Ambulatorio,6.25969,-75.61087
+C00169,2025-05-04,9,Buenos Aires,32.0,F,Diarrea,Baja,Ambulatorio,6.21931,-75.55634
+C00454,2025-05-17,7,Robledo,30.0,M,Cefalea,Alta,Ambulatorio,6.26663,-75.59601
+C00294,2125-06-26,7,Robledo,45.0,F,Dolor abdominal,Baja,Ambulatorio,6.27961,-75.58987
+C00440,2025-03-26,16,Belén,30.0,F,Fiebre,Media,Ambulatorio,6.23609,-75.6072
+C00305,2025-04-21,2,Santa Cruz,43.0,M,Fiebre,Baja,Ambulatorio,6.29215,-75.5461
+C00381,2125-04-23,3,Manrique,83.0,F,Diarrea,Media,Ambulatorio,6.28872,-75.54803
+C00236,2025-04-22,1,Popular,34.0,M,Tos persistente,Media,Ambulatorio,6.30123,-75.55029
+C00430,2025-02-14,2,Santa Cruz,35.0,M,Cefalea,,Ambulatorio,6.28923,-75.55725
+C00116,2125-02-02,11,Laureles,16.0,M,Diarrea,Baja,Ambulatorio,6.23712,-75.58288
+C00333,07-04-2025,15,Guayabal,51.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.22795,-75.59912
+C00145,2025-04-10,14,El Poblado,19.0,F,Tos persistente,Baja,Ambulatorio,6.21804,-75.57627
+C00377,2025-03-08,1,Popular,31.0,M,Fiebre,Media,Ambulatorio,6.30885,-75.54438
+C00339,2025-04-21,13,San Javier,42.0,,Diarrea,Baja,Ambulatorio,6.25263,-75.61617
+C00135,2025-02-27,7,Robledo,60.0,F,Dificultad respiratoria,,Ambulatorio,6.2628,-75.5893
+C00337,2025-03-28,11,Laureles,32.0,M,Dificultad respiratoria,Alta,Ambulatorio,6.24621,-75.58602
+C00448,2125-02-13,2,Santa Cruz,18.0,F,Dolor abdominal,Alta,Ambulatorio,6.29028,-75.55042
+C00330,2025-03-21,8,Villa Hermosa,16.0,M,Dolor abdominal,,Ambulatorio,6.2418,-75.54237
+C00245,2025-04-18,Belén,Belén,65.0,M,Fiebre,Alta,Ambulatorio,6.21702,-75.61778
+C00364,07-02-2025,13,San Javier,31.0,F,Fiebre,Baja,Ambulatorio,6.24596,-75.61084
+C00356,2025-06-19,14,El Poblado,52.0,M,Tos persistente,,Hospitalizado,6.20194,-75.57716
+C00307,2025-05-01,11,Laureles,20.0,F,Diarrea,Baja,Ambulatorio,6.24052,-75.5859
+C00081,2025-06-03,Comuna 5,Castilla,31.0,F,Cefalea,Baja,Ambulatorio,6.28988,-75.57599
+C00212,2025-02-11,16,Belén,73.0,F,Diarrea,,Ambulatorio,6.21933,-75.60766
+C00343,16-03-2025,5,Castilla,28.0,F,Fiebre,Media,Hospitalizado,6.29604,-75.57213
+C00395,2025-02-26,11,Laureles,81.0,M,Dolor abdominal,,,6.24112,-75.58314
+C00406,2025-04-03,15,Guayabal,48.0,F,Diarrea,Alta,Ambulatorio,6.21639,-75.60326
+C00386,2025-03-15,10,La Candelaria,41.0,M,Dolor abdominal,Baja,Ambulatorio,6.25277,-75.5753
+C00472,2025-05-23,1,Popular,25.0,,Tos persistente,Baja,,6.30076,-75.55785
+C00315,2025-06-18,11,Laureles,31.0,M,Fiebre,Baja,Remitido,6.23971,-75.58862
+C00106,2025-02-10,3,Manrique,12.0,F,Diarrea,Baja,Remitido,6.27479,-75.54263
+C00057,18-02-2025,9,Buenos Aires,30.0,MASCULINO,Cefalea,,,6.224,-75.56436
+C00055,2025-03-02,Comuna 4,Aranjuez,18.0,,Dificultad respiratoria,Baja,Remitido,6.27979,-75.55864
+C00062,2025-02-18,1,Popular,28.0,M,Cefalea,Baja,Ambulatorio,6.30612,-75.5563
+C00465,2025-06-30,2,Santa Cruz,43.0,F,Tos persistente,Media,Ambulatorio,6.30114,-75.55397
+C00306,2025-05-18,14,El Poblado,14.0,M,Fiebre,,Ambulatorio,6.20229,-75.56078
+C00237,2025-04-20,9,Buenos Aires,59.0,F,Dolor abdominal,Baja,,6.21748,-75.55863
+C00114,2025-05-07,2,Santa Cruz,46.0,F,Cefalea,,Ambulatorio,6.29964,-75.55086
+C00166,2025-04-14,10,La Candelaria,29.0,M,Fiebre,Baja,Ambulatorio,6.24781,-75.57216
+C00040,2025-06-18,5,Castilla,48.0,M,Fiebre,Alta,Ambulatorio,6.30087,-75.56795
+C00079,2025-04-30,4,Aranjuez,25.0,F,Cefalea,Media,Remitido,6.27081,-75.55178
+C00038,2025-03-07,8,Villa Hermosa,16.0,M,Fiebre,Baja,Ambulatorio,6.25291,-75.55306
+C00031,2025-06-07,1,Popular,61.0,F,Fiebre,Baja,Ambulatorio,6.30547,-75.5535
+C00087,2025-05-21,5,Castilla,34.0,M,Diarrea,Baja,Ambulatorio,6.29212,-75.56889
+C00006,2025-05-10,11,Laureles,72.0,F,Diarrea,Baja,Ambulatorio,6.24768,-75.59569
+C00378,2025-04-15,10,La Candelaria,,F,Diarrea,Media,Ambulatorio,6.25247,-75.57166
+C00206,2025-04-09,13,San Javier,67.0,F,Diarrea,Media,Remitido,6.25038,-75.6239
+C00131,2025-04-28,12,La América,31.0,F,Diarrea,Baja,Ambulatorio,6.23825,-75.61359
+C00266,2025-02-28,8,Villa Hermosa,,M,Fiebre,Baja,Ambulatorio,6.25105,-75.55083
+C00235,2025-04-22,Buenos Aires,Buenos Aires,21.0,,Dolor abdominal,Baja,Ambulatorio,6.2171,-75.55031
+C00009,2025-04-25,8,Villa Hermosa,66.0, F,Dolor abdominal,Baja,Ambulatorio,6.23798,-75.54512
+C00042,2025-03-20,10,La Candelaria,10.0,M,Dolor abdominal,Baja,Remitido,6.24035,-75.57154
+C00331,2025-05-06,12,La América,46.0,M,Tos persistente,Baja,Remitido,6.23983,-75.61162
+C00142,2025-04-28,San Javier,San Javier,34.0,M,Diarrea,,Ambulatorio,6.25636,-75.61925
+C00311,2025-04-18,11,Laureles,53.0,M,Cefalea,Baja,,6.25,-75.59407
+C00254,2025-05-03,10,La Candelaria,33.0,M,Tos persistente,Media,,6.24828,-75.56154
+C00412,2025-05-15,11,Laureles,49.0,M,Diarrea,Baja,Ambulatorio,6.2423,-75.59121
+C00300,2025-07-01,9,Buenos Aires,31.0,M,Fiebre,Media,Ambulatorio,6.21693,-75.54884
+C00056,14-04-2025,9,Buenos Aires,39.0,M,Dolor abdominal,Baja,Ambulatorio,6.22269,-75.54721
+C00209,2025-04-28,3,Manrique,150.0,F,Cefalea,Baja,Ambulatorio,6.28145,-75.54116
+C00435,2025-06-02,Comuna 11,Laureles,35.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.24501,-75.58797
+C00452,2025-04-25,15,Guayabal,87.0,M,Tos persistente,,Ambulatorio,6.21953,-75.59157
+C00097,06/05/2025,11,Laureles,49.0,M,Dolor abdominal,Baja,Ambulatorio,6.23903,-75.5956
+C00024,2025-03-23,10,La Candelaria,44.0,F,Cefalea,Alta,,6.24482,-75.56181
+C00303,2025-02-17,1,Popular,30.0,F,Cefalea,Baja,Ambulatorio,6.30598,-75.55658
+C00016,2025-03-24,5,Castilla,35.0,F,Fiebre,Baja,Ambulatorio,6.30291,-75.56878
+C00231,2025-02-26,9,Buenos Aires,57.0,M,Dolor abdominal,Baja,Ambulatorio,6.22999,-75.54558
+C00201,2025-04-02,Comuna 2,Santa Cruz,51.0,F,Cefalea,Baja,Ambulatorio,6.28453,-75.54475
+C00155,2025-05-02,8,Villa Hermosa,14.0,M,Dolor abdominal,Media,Ambulatorio,6.24423,-75.54937
+C00221,2025-05-19,10,La Candelaria,40.0,F,Fiebre,Baja,Ambulatorio,6.25372,-75.57439
+C00002,2025-05-20,15,Guayabal,41.0,F,Dolor abdominal,Baja,Ambulatorio,6.2141,-75.60232
+C00437,2125-02-05,9,Buenos Aires,41.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.21662,-75.55026
+C00207,2025-02-10,16,Belén,88.0,M,Cefalea,Baja,Ambulatorio,6.22105,-75.60963
+C00112,2025-05-17,5,Castilla,35.0,M,Diarrea,Baja,,6.29355,-75.58177
+C00133,2025-06-30,Laureles,Laureles,36.0,F,Diarrea,Media,,6.23675,-75.5963
+C00511,2025-04-12,13,San Javier,20.0,m,Diarrea,Baja,Ambulatorio,6.2608,-75.62646
+C00092,2025-05-03,13,San Javier,58.0,M,Diarrea,Baja,Ambulatorio,6.25227,-75.61707
+C00152,2125-04-01,13,San Javier,23.0,M,Diarrea,Media,Ambulatorio,6.2586,-75.61035
+C00498,25-05-2025,1,Popular,32.0,F,Dolor abdominal,Baja,Ambulatorio,6.29461,-75.54976
+C00510,22-05-2025,2,Santa Cruz,,F,Fiebre,Baja,Ambulatorio,6.29795,-75.54589
+C00275,2025-03-25,9,Buenos Aires,52.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.21594,-75.54862
+C00008,06/10/2025,9,Buenos Aires,63.0,F,Fiebre,Baja,Ambulatorio,6.2209,-75.56309
+C00285,2025-04-21,13,San Javier,12.0,F,Cefalea,Baja,Ambulatorio,6.2615,-75.6196
+C00344,06/04/2025,5,Castilla,45.0,F,Dolor abdominal,Baja,Ambulatorio,6.29104,-75.56911
+C00234,2025-03-23,6,Doce de Octubre,21.0,F,Diarrea,Baja,Ambulatorio,6.29099,-75.59508
+C00269,2025-02-22,Doce de Octubre,Doce de Octubre,77.0,f,Tos persistente,Baja,Ambulatorio,,
+C00398,2025-05-27,16,Belén,34.0,M,Fiebre,Baja,Ambulatorio,6.22263,-75.60352
+C00190,2025-06-08,12,La América,30.0,F,Dolor abdominal,Baja,Ambulatorio,6.2381,-75.61192
+C00313,2025-05-12,10,La Candelaria,21.0,F,Tos persistente,Media,Ambulatorio,6.25498,-75.56758
+C00151,2025-06-25,10,La Candelaria,51.0,F,Cefalea,Baja,Ambulatorio,6.25535,-75.57256
+C00371,2025-05-30,2,Santa Cruz,57.0,F,Dolor abdominal,Baja,Hospitalizado,6.29142,-75.56394
+C00456,2025-06-22,2,Santa Cruz,32.0,M,Cefalea,Media,Ambulatorio,6.28691,-75.56365
+C00208,2025-04-25,11,Laureles,36.0,M,Fiebre,Baja,Ambulatorio,6.23951,-75.58358
+C00310,2025-03-16,13,San Javier,60.0,F,Diarrea,Media,Hospitalizado,6.26291,-75.61472
+C00494,2025-04-05,11,Laureles,55.0,M,Dolor abdominal,Baja,Ambulatorio,6.25063,-75.5994
+C00487,02/26/2025,12,La América,45.0,F,Diarrea,Media,Ambulatorio,6.2387,-75.59506
+C00474,2025-06-12,1,Popular,30.0,M,Dolor abdominal,Baja,Ambulatorio,6.30478,-75.56089
+C00389,2025-02-15,15,Guayabal,65.0,F,Dificultad respiratoria,Media,Ambulatorio,6.22929,-75.5934
+C00007,2025-03-18,14,El Poblado,9.0,F,Fiebre,Media,Ambulatorio,6.21021,-75.56662
+C00504,2025-02-25,2,Santa Cruz,64.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.28949,-75.55964
+C00205,2025-06-01,14,El Poblado,81.0,F,Tos persistente,Media,,6.20896,-75.56808
+C00376,2025-06-04,7,Robledo,62.0,M,Fiebre,Media,Ambulatorio,6.27063,-75.58287
+C00144,2025-04-13,11,Laureles,25.0,M,Dificultad respiratoria,Media,Ambulatorio,6.23833,-75.58046
+C00139,2025-02-24,6,Doce de Octubre,45.0,M,Dolor abdominal,Baja,,6.29595,-75.59219
+C00012,2025-03-19,2,Santa Cruz,52.0,MASCULINO,Diarrea,Media,Ambulatorio,6.30054,-75.54996
+C00291,08-06-2025,14,El Poblado,20.0,M,Cefalea,Baja,,6.20898,-75.56287
+C00372,2025-04-20,5,Castilla,56.0,F,Dolor abdominal,Media,Ambulatorio,6.29246,-75.57716
+C00161,2025-02-12,1,Popular,28.0,M,Dolor abdominal,Media,Ambulatorio,6.30084,-75.55928
+C00493,2025-05-13,2,Santa Cruz,61.0,F,Fiebre,,Ambulatorio,6.29761,-75.55947
+C00264,2025-04-13,12,La América,14.0,F,Cefalea,Baja,Remitido,6.24023,-75.59553
+C00158,2025-05-21,1,Popular,34.0,M,Fiebre,,Hospitalizado,6.30174,-75.55029
+C00263,2025-05-09,10,La Candelaria,47.0,F,Cefalea,Baja,Ambulatorio,6.25724,-75.5563
+C00100,2025-04-11,12,La América,40.0,F,Dolor abdominal,,,6.25701,-75.59974
+C00134,2025-03-08,6,Doce de Octubre,38.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.28614,-75.58936
+C00159,2025-02-23,16,Belén,19.0,F,Fiebre,,Remitido,6.23287,-75.60568
+C00248,2025-07-01,10,La Candelaria,35.0,F,Cefalea,,Ambulatorio,6.24438,-75.56831
+C00425,2025-03-18,3,Manrique,69.0,M,Dificultad respiratoria,Alta,Ambulatorio,6.28433,-75.55744
+C00041,02/13/2025,2,Santa Cruz,33.0,F,Dificultad respiratoria,Media,Ambulatorio,6.28772,-75.54737
+C00019,2025-04-02,5,Castilla,51.0,M,Cefalea,Baja,Ambulatorio,6.30048,-75.57756
+C00367,2025-06-19,16,Belén,39.0,MASCULINO,Fiebre,Baja,,6.22944,-75.60148
+C00348,2025-07-01,12,La América,64.0,M,Tos persistente,Baja,Remitido,6.24596,-75.59538
+C00013,2125-05-07,15,Guayabal,45.0,M,Dolor abdominal,Baja,Ambulatorio,6.21939,-75.59281
+C00451,2025-06-01,4,Aranjuez,66.0,Masculino,Fiebre,Alta,Ambulatorio,6.2688,-75.55543
+C00101,2025-05-26,5,Castilla,54.0,M,Fiebre,Media,Ambulatorio,6.28978,-75.56848
+C00187,2025-02-06,2,Santa Cruz,53.0,M,Dolor abdominal,Baja,Ambulatorio,6.30181,-75.56094
+C00199,2025-06-07,6,Doce de Octubre,48.0,F,Cefalea,Media,Hospitalizado,6.28678,-75.57776
+C00351,2025-06-20,11,Laureles,46.0,M,Diarrea,Baja,Ambulatorio,6.24332,-75.58773
+C00426,2025-02-24,7,Robledo,27.0,M,Tos persistente,Baja,Remitido,6.26558,-75.58873
+C00431,2025-03-23,6,Doce de Octubre,21.0,F,Dolor abdominal,Baja,Remitido,6.29358,-75.59236
+C00394,2025-04-05,10,La Candelaria,50.0,F,Dolor abdominal,Media,,6.24924,-75.57441
+C00475,2025-03-04,5,Castilla,27.0,F,Dolor abdominal,Baja,Remitido,6.29688,-75.5825
+C00115,2025-05-16,4,Aranjuez,25.0,M,Cefalea,Media,Ambulatorio,6.26945,-75.55219
+C00058,2025-06-14,2,Santa Cruz,66.0,F,Dolor abdominal,,Ambulatorio,6.29862,-75.56231
+C00197,2025-05-05,3,Manrique,19.0,M,Dolor abdominal,,Ambulatorio,6.28833,-75.55123
+C00423,2025-03-22,12,La América,66.0,M,Cefalea,Baja,Ambulatorio,6.24856,-75.61205
+C00500,2025-06-16,1,Popular,34.0,F,Diarrea,Media,Ambulatorio,6.3033,-75.54497
+C00382,2025-02-04,11,Laureles,16.0,F,Cefalea,Baja,Hospitalizado,6.2513,-75.5906
+C00490,2025-04-30,16,Belén,27.0,F,Tos persistente,Baja,,6.22688,-75.60335
+C00460,03/27/2025,Popular,Popular,40.0,M,Tos persistente,Alta,Hospitalizado,6.29952,-75.56291
+C00299,08-02-2025,8,Villa Hermosa,60.0,F,Fiebre,Media,Ambulatorio,6.25205,-75.54351
+C00128,2025-06-05,11,Laureles,40.0,F,Fiebre,Media,Ambulatorio,6.24202,-75.58199
+C00434,2025-03-06,1,Popular,47.0,F,Tos persistente,Baja,Ambulatorio,6.29886,-75.56105
+C00359,2025-02-04,3,Manrique,31.0,M,Dificultad respiratoria,,Ambulatorio,6.28039,-145.54654
+C00157,2025-06-10,4,Aranjuez,31.0,F,Tos persistente,Alta,Ambulatorio,6.27737,-75.55417
+C00240,2025-03-27,9,Buenos Aires,53.0,F,Diarrea,Baja,Ambulatorio,6.22143,-75.54854
+C00132,2025-06-16,5,Castilla,38.0,M,Tos persistente,Media,,6.29615,-75.56549
+C00211,2025-03-02,4,Aranjuez,21.0,F,Fiebre,Media,Ambulatorio,6.27405,-75.5518
+C00323,2025-06-02,10,La Candelaria,13.0,M,Diarrea,,Ambulatorio,6.25623,-75.57327
+C00506,2025-04-12,6,Doce de Octubre,61.0,F,Fiebre,Baja,,6.29561,-75.59035
+C00137,2025-03-08,1,Popular,20.0,M,Cefalea,Baja,Remitido,6.29948,-75.55627
+C00032,2025-05-16,9,Buenos Aires,95.0,M,Cefalea,Media,Hospitalizado,6.23504,-75.55059
+C00077,2025-04-24,15,Guayabal,36.0,F,Fiebre,Baja,Ambulatorio,6.22496,-75.59552
+C00316,2025-06-13,1,Popular,36.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.30094,-75.55549
+C00259,2025-05-07,14,El Poblado,46.0,F,Cefalea,Media,,6.19896,-75.5728
+C00247,2025-03-08,5,Castilla,,F,Dificultad respiratoria,Media,Ambulatorio,6.28989,-75.57524
+C00492,2025-03-05,16,Belén,59.0,M,Tos persistente,Alta,Ambulatorio,6.2177,-75.61113
+C00127,2025-04-02,3,Manrique,66.0,F,Cefalea,Baja,Hospitalizado,6.27524,-75.54306
+C00219,2025-02-17,10,La Candelaria,35.0,M,Diarrea,Baja,Ambulatorio,6.25521,-75.56634
+C00517,2025-03-26,11,Laureles,31.0,M,Dolor abdominal,Media,Ambulatorio,6.24092,-75.58307
+C00421,2025-05-10,12,La América,16.0,M,Diarrea,Baja,Ambulatorio,6.24475,-75.60297
+C00477,2025-03-16,11,Laureles,62.0,F,Fiebre,Alta,Hospitalizado,6.25229,-75.59029
+C00415,03/07/2025,15,Guayabal,50.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.21891,-75.59837
+C00173,2025-06-01,4,Aranjuez,16.0,M,Fiebre,Baja,Remitido,6.28298,-75.55159
+C00368,2025-06-20,5,Castilla,32.0,M,Diarrea,,Ambulatorio,6.28878,-75.56949
+C00108,2025-03-15,4,Aranjuez,13.0,F,Dificultad respiratoria,Media,,6.26398,-75.56225
+C00017,2125-02-16,7,Robledo,26.0,Masculino,Dolor abdominal,Baja,Ambulatorio,6.28158,-75.58603
+C00226,2025-04-06,9,Buenos Aires,45.0,M,Dolor abdominal,Baja,Ambulatorio,6.2202,-75.55623
+C00088,10-02-2025,9,Buenos Aires,26.0, F,Dificultad respiratoria,Media,Remitido,6.2271,-75.55867
+C00374,05/06/2025,6,Doce de Octubre,82.0,M,Dolor abdominal,Media,Ambulatorio,6.3027,-75.58444
+C00390,04/18/2025,14,El Poblado,30.0,F,Dificultad respiratoria,,Hospitalizado,6.2123,-75.55925
+C00011,2025-02-10,Robledo,Robledo,43.0,F,Dolor abdominal,Baja,Ambulatorio,6.26233,-75.58447
+C00336,2125-06-20,7,Robledo,14.0,M,Fiebre,Media,Ambulatorio,6.26534,-75.58571
+C00355,2025-03-06,12,La América,30.0,M,Fiebre,Baja,Remitido,6.24827,-75.60846
+C00198,2025-06-14,Comuna 8,Villa Hermosa,95.0,F,Tos persistente,Baja,Ambulatorio,6.24092,-75.55332
+C00184,2025-05-21,12,La América,32.0,F,Tos persistente,Media,Ambulatorio,6.25462,-75.59869
+C00095,2025-04-04,10,La Candelaria,34.0,F,Fiebre,Media,Ambulatorio,6.24182,-75.56604
+C00286,2025-02-20,13,San Javier,19.0,F,Dolor abdominal,Media,Ambulatorio,6.24771,-75.62664
+C00129,2025-03-16,9,Buenos Aires,43.0,M,Dificultad respiratoria,Media,,6.21785,-75.55129
+C00214,02/27/2025,16,Belén,16.0,M,Diarrea,Baja,Ambulatorio,6.22095,-75.60668
+C00428,2025-05-31,12,La América,29.0,F,Cefalea,Baja,Ambulatorio,6.24723,-75.60764
+C00467,2025-04-26,7,Robledo,-5.0,F,Cefalea,Alta,Ambulatorio,6.27381,-75.58811
+C00407,01-05-2025,12,La América,65.0,F,Dolor abdominal,Baja,Ambulatorio,6.24414,-75.59545
+C00479,01-04-2025,16,Belén,42.0,M,Dolor abdominal,Baja,Ambulatorio,6.21819,-75.62021
+C00261,2025-02-24,14,El Poblado,47.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.19938,-75.56037
+C00347,2025-05-31,7,Robledo,66.0,M,Dificultad respiratoria,Alta,Remitido,6.27914,-75.59082
+C00491,2025-06-01,1,Popular,,m,Cefalea,Baja,Ambulatorio,6.29418,-75.54852
+C00385,2025-02-24,2,Santa Cruz,35.0,,Dolor abdominal,Baja,Remitido,6.29558,-75.55023
+C00025,05-02-2025,13,San Javier,42.0,f,Fiebre,Baja,Remitido,6.24591,-75.62883
+C00332,30-05-2025,1,Popular,30.0,F,Tos persistente,Baja,Ambulatorio,6.29738,-75.55754
+C00255,2025-06-18,7,Robledo,67.0,F,Dificultad respiratoria,Media,Remitido,6.27556,-75.59342
+C00438,2025-03-19,16,Belén,68.0,F,Dificultad respiratoria,Media,Remitido,6.23319,-75.60193
+C00466,2025-04-11,14,El Poblado,37.0,F,Fiebre,Alta,Ambulatorio,6.19919,-75.57738
+C00194,2025-06-18,13,San Javier,19.0,,Fiebre,Media,Ambulatorio,6.25222,-75.62834
+C00107,2025-02-10,9,Buenos Aires,50.0,M,Dolor abdominal,Baja,Remitido,6.22212,-75.55097
+C00387,2025-05-16,5,Castilla,78.0,M,Fiebre,Baja,Ambulatorio,6.29966,-75.56728
+C00091,2025-03-18,Comuna 7,Robledo,50.0,M,Dificultad respiratoria,,Ambulatorio,6.26552,-75.59401
+C00495,2025-05-28,9,Buenos Aires,24.0,F,Diarrea,Baja,Ambulatorio,6.22828,-75.5563
+C00274,06/22/2025,1,Popular,15.0,M,Dificultad respiratoria,Alta,Ambulatorio,6.29949,-75.56202
+C00280,21-04-2025,Aranjuez,Aranjuez,44.0,F,Tos persistente,Baja,Remitido,6.27789,-75.5658
+C00043,2025-03-04,6,Doce de Octubre,40.0,M,Tos persistente,Media,Ambulatorio,6.30089,-75.59707
+C00346,2025-03-15,10,La Candelaria,47.0,F,Fiebre,Media,Ambulatorio,6.24907,-75.56447
+C00444,2025-05-22,12,La América,33.0,M,Dolor abdominal,,Ambulatorio,6.2407,-75.60291
+C00276,2025-04-08,10,La Candelaria,,M,Cefalea,Baja,Remitido,6.24232,-75.56604
+C00432,04/28/2025,11,Laureles,34.0,F,Tos persistente,Media,Ambulatorio,6.24771,-75.58645
+C00082,2025-03-06,Comuna 6,Doce de Octubre,60.0,M,Diarrea,,Ambulatorio,6.29734,-75.58699
+C00063,2025-07-01,Comuna 9,Buenos Aires,43.0,F,Fiebre,Media,Ambulatorio,6.22575,-75.55173
+C00123,2025-06-08,5,Castilla,28.0,M,Dolor abdominal,Baja,Ambulatorio,6.2989,-75.56898
+C00061,2025-02-27,3,Manrique,73.0,F,Cefalea,Media,Ambulatorio,6.27084,-75.55693
+C00106,2025-02-10,3,Manrique,12.0,,Diarrea,Baja,Remitido,6.27479,-75.54263
+C00171,12-03-2025,1,Popular,65.0,M,Dolor abdominal,Media,Ambulatorio,6.29511,-75.5578
+C00065,2025-06-15,Manrique,Manrique,31.0,F,Dolor abdominal,Baja,Remitido,6.28645,-75.55819
+C00457,2025-06-22,6,Doce de Octubre,82.0,F,Fiebre,Baja,Ambulatorio,6.29167,-75.59305
+C00507,2025-06-30,10,La Candelaria,25.0,F,Diarrea,,Ambulatorio,6.24738,-75.56003
+C00075,2025-03-10,13,San Javier,4.0,F,Fiebre,Baja,Ambulatorio,6.25307,-145.62900000000002
+C00126,2025-03-11,16,Belén,79.0,M,Diarrea,Baja,Remitido,6.2356,-75.61698
+C00442,2025-03-22,3,Manrique,39.0,M,Fiebre,Media,Ambulatorio,6.28143,-75.54712
+C00338,2025-06-12,5,Castilla,65.0,M,Dolor abdominal,Baja,Ambulatorio,6.30279,-75.58455
+C00416,2025-06-13,15,Guayabal,66.0,M,Fiebre,Media,,6.22995,-75.58795
+C00281,2025-03-12,8,Villa Hermosa,45.0,M,Fiebre,Media,Ambulatorio,6.23719,-75.54857
+C00249,2025-02-05,7,Robledo,28.0,M,Cefalea,Media,Ambulatorio,6.27007,-75.60151
+C00361,02/12/2025,16,Belén,56.0,F,Fiebre,Baja,Ambulatorio,6.21833,-75.6147
+C00163,2125-02-08,8,Villa Hermosa,11.0,f,Dolor abdominal,Media,Ambulatorio,6.24199,-75.55352
+C00251,2025-03-21,2,Santa Cruz,24.0,M,Dificultad respiratoria,Alta,Ambulatorio,6.30154,-75.54519
+C00089,2025-04-26,14,El Poblado,48.0,F,Cefalea,Alta,Ambulatorio,6.2037,-75.56186
+C00053,2025-03-19,Comuna 15,Guayabal,13.0,F,Cefalea,Baja,Remitido,6.23259,-75.59131
+C00301,2025-04-04,16,Belén,36.0,M,Cefalea,Alta,Ambulatorio,6.22688,-75.61066
+C00411,2025-06-29,15,Guayabal,55.0,Masculino,Cefalea,Baja,Ambulatorio,6.21959,-75.58539
+C00445,02/16/2025,16,Belén,84.0,M,Cefalea,Baja,Ambulatorio,6.21957,-75.60445
+C00469,2025-05-11,12,La América,20.0,F,Dificultad respiratoria,Media,Ambulatorio,6.2387,-75.6003
+C00455,2025-04-26,Comuna 9,Buenos Aires,31.0,Femenino,Cefalea,Baja,Ambulatorio,6.22301,-75.55118
+C00496,2025-03-04,3,Manrique,18.0,F,Tos persistente,Baja,Hospitalizado,6.28274,-75.55132
+C00446,2025-06-12,15,Guayabal,39.0,F,Dolor abdominal,Media,,6.21324,-75.59205
+C00047,2025-03-04,13,San Javier,71.0,M,Tos persistente,Media,,6.26355,-75.62395
+C00324,2025-03-15,9,Buenos Aires,80.0,M,Dificultad respiratoria,Alta,Ambulatorio,6.22209,-75.55089
+C00458,2025-06-05,10,La Candelaria,32.0,F,Dificultad respiratoria,Media,Ambulatorio,6.25004,-75.56067
+C00054,02/19/2025,4,Aranjuez,20.0,F,Diarrea,Baja,,-75.557,6.2772
+C00141,2025-06-29,7,Robledo,59.0,M,Diarrea,Baja,Ambulatorio,6.26495,-75.60044
+C00181,2025-03-18,2,Santa Cruz,21.0,M,Cefalea,Alta,Hospitalizado,6.28518,-75.55816
+C00005,2125-06-20,13,San Javier,30.0,,Dificultad respiratoria,Media,Ambulatorio,6.26401,-75.61636
+C00516,19-04-2025,11,Laureles,30.0,F,Diarrea,Media,Ambulatorio,6.23787,-75.59106
+C00066,2025-04-28,8,Villa Hermosa,16.0,F,Fiebre,Baja,Ambulatorio,6.24247,-75.54089
+C00441,2025-02-19,5,Castilla,43.0,M,Fiebre,Media,Ambulatorio,6.29673,-75.56937
+C00170,2025-04-11,4,Aranjuez,10.0,M,Tos persistente,Media,Remitido,6.26979,-75.55409
+C00485,2025-06-02,Laureles,Laureles,35.0,M,Cefalea,Media,Ambulatorio,6.24348,-75.58135
+C00349,2025-05-30,5,Castilla,38.0,F,Fiebre,Alta,Ambulatorio,6.29376,-75.58475
+C00279,2025-02-01,Comuna 5,Castilla,35.0,F,Tos persistente,Baja,Ambulatorio,6.28481,-75.56758
+C00483,2025-05-20,2,Santa Cruz,34.0,F,Cefalea,Baja,,6.28396,-75.55727
+C00027,2025-05-09,2,Santa Cruz,31.0,M,Cefalea,Baja,Ambulatorio,6.29518,-75.54683
+C00179,2025-06-03,11,Laureles,29.0,M,Diarrea,Media,Ambulatorio,6.2446,-75.59212
+C00164,2025-02-03,3,Manrique,200.0,f,Dolor abdominal,Baja,Ambulatorio,6.28118,-75.54884
+C00384,2025-05-16,15,Guayabal,43.0,M,Diarrea,,Hospitalizado,6.21276,-75.59117
+C00499,2025-03-20,10,La Candelaria,32.0,F,Tos persistente,Baja,Remitido,6.24072,-75.56303
+C00502,2025-02-17,8,Villa Hermosa,18.0,M,Cefalea,Media,Ambulatorio,6.24693,-75.54126
+C00218,2025-04-14,1,Popular,28.0,F,Dolor abdominal,Media,Hospitalizado,6.30652,-75.54496
+C00328,2025-03-07,15,Guayabal,45.0,Masculino,Tos persistente,Media,Ambulatorio,6.23141,-75.60163
+C00508,2025-06-21,8,Villa Hermosa,10.0,M,Cefalea,Baja,Remitido,6.24242,-75.53708
+C00380,2025-06-29,7,Robledo,45.0,M,Dolor abdominal,Baja,Remitido,6.2723,-75.59392
+C00373,2025-05-22,Buenos Aires,Buenos Aires,32.0,F,Cefalea,Baja,Ambulatorio,6.21839,-75.55446
+C00150,2025-05-04,7,Robledo,49.0,F,Diarrea,Baja,Ambulatorio,6.26195,-75.59276
+C00383,2025-04-21,3,Manrique,26.0,F,Diarrea,Baja,Ambulatorio,6.28529,-75.54953
+C00519,09-02-2025,3,Manrique,21.0,F,Tos persistente,Baja,Ambulatorio,6.27873,-75.54457
+C00035,2025-03-24,3,Manrique,35.0,F,Fiebre,Baja,Ambulatorio,6.27465,-75.54801
+C00341,2025-06-23,8,Villa Hermosa,20.0,F,Cefalea,Media,Remitido,6.23838,-75.53434
+C00111,05/06/2025,10,La Candelaria,27.0,M,Cefalea,Media,Ambulatorio,6.23859,-75.56358
+C00228,07-05-2025,6,Doce de Octubre,19.0,M,Dificultad respiratoria,,Ambulatorio,6.30166,-75.58886
+C00342,2025-03-16,14,El Poblado,19.0,F,Tos persistente,Baja,Ambulatorio,6.2085,-75.56215
+C00427,2025-03-04,4,Aranjuez,54.0,F,Fiebre,Media,Ambulatorio,6.2788,-75.55575
+C00350,2025-03-01,2,Santa Cruz,54.0,M,Fiebre,Media,Ambulatorio,6.30198,-75.56203
+C00443,2025-05-03,10,La Candelaria,56.0,M,Cefalea,Baja,Ambulatorio,6.24631,-75.5585
+C00151,2025-06-25,10,La Candelaria,51.0,F,Cefalea,Baja,Ambulatorio,6.25535,-75.57256
+C00143,2025-03-11,14,El Poblado,37.0,F,Dolor abdominal,Media,Remitido,6.21246,-75.56339
+C00296,2025-04-19,12,La América,95.0,M,Cefalea,,Ambulatorio,6.25665,-75.60738
+C00272,2025-02-26,16,Belén,29.0,F,Cefalea,,Ambulatorio,6.21796,-75.60418
+C00357,2025-04-01,1,Popular,36.0,M,Dolor abdominal,Baja,Ambulatorio,6.30506,-75.55166
+C00001,2025-04-01,9,Buenos Aires,17.0,M,Fiebre,,,6.23071,-75.56043
+C00408,2025-03-04,7,Robledo,999.0,F,Diarrea,Media,Ambulatorio,6.27175,-75.59964
+C00304,2025-06-06,6,Doce de Octubre,62.0,F,Tos persistente,Media,Ambulatorio,6.2904,-75.58619
+C00175,2025-02-03,5,Castilla,17.0,M,Tos persistente,Baja,Ambulatorio,6.28964,-75.57183
+C00453,2025-05-11,4,Aranjuez,47.0,F,Dolor abdominal,Baja,Ambulatorio,6.26927,-75.55607
+C00177,2025-02-04,16,Belén,42.0,,Diarrea,Baja,Remitido,6.23546,-75.60935
+C00390,2025-04-18,14,El Poblado,,F,Dificultad respiratoria,Baja,Hospitalizado,6.2123,-75.55925
+C00302,2025-02-04,6,Doce de Octubre,53.0,M,Fiebre,Media,Ambulatorio,6.30085,-75.59167
+C00223,2025-07-01,16,Belén,27.0,F,Cefalea,Baja,Ambulatorio,6.22282,-75.61933
+C00241,2025-04-17,3,Manrique,41.0,M,Dolor abdominal,Alta,Ambulatorio,6.27696,-75.55851
+C00156,03/10/2025,12,La América,71.0,M,Diarrea,Baja,Ambulatorio,6.23751,-75.59898
+C00409,04/26/2025,12,La América,27.0,F,Tos persistente,Alta,Ambulatorio,6.2513,-75.61269
+C00288,2025-03-04,9,Buenos Aires,62.0,m,Dolor abdominal,Baja,Ambulatorio,6.22514,-75.55587
+C00405,2025-06-01,10,La Candelaria,,F,Tos persistente,Media,Remitido,6.24693,-75.57076
+C00186,06/06/2025,3,Manrique,29.0,M,Fiebre,Baja,Ambulatorio,6.2829,-75.54431
+C00238,2125-02-25,8,Villa Hermosa,64.0,F,Fiebre,,Ambulatorio,6.25054,-75.55275
+C00147,2025-03-19,14,El Poblado,32.0,M,Dificultad respiratoria,Media,Ambulatorio,6.19931,-75.57042
+C00358,04/27/2025,Comuna 9,Buenos Aires,47.0,F,Dificultad respiratoria,,Ambulatorio,6.22453,-75.56177
+C00105,2025-04-29,4,Aranjuez,39.0,M,Dolor abdominal,Baja,Ambulatorio,6.27095,-75.55275
+C00010,2025-06-12,16,Belén,50.0,M,Dolor abdominal,Media,Ambulatorio,6.23524,-75.62118
+C00187,2025-02-06,2,Santa Cruz,53.0,M,Dolor abdominal,Baja,Ambulatorio,6.30181,-75.56094
+C00410,2025-03-06,5,Castilla,,,Cefalea,Baja,Ambulatorio,6.29395,-75.56736
+C00167,2025-02-21,16,Belén,,M,Dolor abdominal,Media,Ambulatorio,6.23448,-75.61235
+C00148,2025-05-09,13,San Javier,51.0,M,Diarrea,Media,Ambulatorio,6.26486,-75.62576
+C00396,2025-05-10,16,Belén,32.0,F,Dolor abdominal,,Ambulatorio,6.22845,-75.6115
+C00014,2025-06-19,16,Belén,17.0,F,Fiebre,Baja,Ambulatorio,6.2314,-75.60867
+C00509,2025-05-22,15,Guayabal,36.0,F,Dolor abdominal,Media,,6.22563,-75.59377
+C00121,2025-03-21,5,Castilla,16.0,M,Cefalea,Baja,Ambulatorio,6.29187,-75.56584
+C00375,2025-05-07,2,Santa Cruz,14.0,F,Cefalea,Baja,Hospitalizado,6.28945,-75.55194
+C00224,2125-06-04,6,Doce de Octubre,54.0,F,Fiebre,Baja,Remitido,6.30382,-75.58769
+C00287,2025-02-06,6,Doce de Octubre,44.0,,Cefalea,Baja,,6.28675,-75.58903
+C00239,2025-04-19,4,Aranjuez,48.0,F,Tos persistente,Baja,Ambulatorio,,
+C00244,2025-06-12,Comuna 6,Doce de Octubre,37.0,F,Cefalea,Media,Ambulatorio,6.30152,-75.57974
+C00037,2025-03-16,7,Robledo,23.0,M,Diarrea,Alta,Ambulatorio,6.28084,-75.58533
+C00229,2025-06-15,2,Santa Cruz,27.0,F,Cefalea,Baja,Ambulatorio,6.29213,-75.5493
+C00069,2025-05-14,10,La Candelaria,55.0,M,Tos persistente,Baja,Ambulatorio,6.2561,-75.57115
+C00233,2025-03-11,1,Popular,17.0,F,Diarrea,Alta,Remitido,6.2905,-75.55983
+C00268,2025-02-14,11,Laureles,66.0,,Fiebre,,Ambulatorio,6.23522,-75.5812
+C00353,2025-04-21,2,Santa Cruz,76.0,F,Diarrea,Media,Remitido,6.29523,-75.54571
+C00054,2025-02-19,4,Aranjuez,150.0,F,Diarrea,Baja,Ambulatorio,6.2772,-75.557
+C00282,2025-06-01,3,Manrique,55.0,F,Diarrea,Alta,Ambulatorio,6.27861,-75.55891
+C00119,2025-06-28,14,El Poblado,22.0,M,Dolor abdominal,Media,Remitido,6.20846,-75.56262
+C00130,2125-06-20,4,Aranjuez,29.0,M,Cefalea,Media,Ambulatorio,6.27306,-75.55661
+C00314,2025-02-09,Comuna 4,Aranjuez,27.0,F,Tos persistente,,Ambulatorio,6.27155,-75.55654
+C00083,2025-06-30,11,Laureles,55.0,M,Dificultad respiratoria,,Ambulatorio,6.24267,-75.59939
+C00180,2025-06-09,9,Buenos Aires,21.0,M,Dolor abdominal,Media,Ambulatorio,6.23276,-75.55131
+C00463,2025-03-28,11,Laureles,26.0,F,Dolor abdominal,Baja,Ambulatorio,6.24963,-75.5834
+C00450,2025-05-19,12,La América,53.0,F,Dolor abdominal,Media,Ambulatorio,6.24426,-75.60713
+C00515,2025-02-05,15,Guayabal,32.0,M,Tos persistente,,Ambulatorio,6.21802,-75.58944
+C00046,2025-04-27,8,Villa Hermosa,35.0,M,Diarrea,Media,Remitido,6.24047,-75.54066
+C00400,2125-06-01,9,Buenos Aires,21.0,F,Cefalea,Baja,Remitido,6.22979,-75.56255
+C00298,2025-06-29,6,Doce de Octubre,41.0,m,Diarrea,Media,Ambulatorio,6.29936,-75.58496
+C00242,2025-04-29,13,San Javier,27.0,F,Diarrea,Media,Remitido,6.2533,-75.62902
+C00514,2025-04-24,5,Castilla,,M,Dolor abdominal,Baja,Ambulatorio,6.30136,-75.56595
+C00193,2025-04-03,13,San Javier,23.0,M,Cefalea,Baja,Ambulatorio,6.26291,-75.62358
+C00225,2025-06-06,3,Manrique,34.0,M,Diarrea,,Ambulatorio,6.2826,-75.54282
+C00154,2125-04-21,14,El Poblado,,F,Cefalea,Alta,Ambulatorio,6.2036,-75.56486
+C00424,2025-03-01,3,Manrique,58.0,F,Diarrea,Baja,Ambulatorio,6.27771,-75.55081
+C00363,2125-03-08,8,Villa Hermosa,21.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.2439,-75.53497
+C00188,2025-04-25,14,El Poblado,69.0,M,Dolor abdominal,Baja,Ambulatorio,6.20278,-75.56259
+C00094,29-05-2025,4,Aranjuez,45.0,M,Cefalea,Baja,Hospitalizado,6.27698,-75.54865
+C00369,2025-04-12,5,Castilla,29.0,F,Tos persistente,Alta,Hospitalizado,6.29678,-75.56854
+C00124,2025-02-11,13,San Javier,20.0,F,Dolor abdominal,Baja,Hospitalizado,6.26003,-75.61503
+C00326,2025-02-02,Manrique,Manrique,43.0,M,Tos persistente,Baja,Ambulatorio,6.28491,-75.55407
+C00168,2025-05-28,13,San Javier,29.0,F,Fiebre,Media,Hospitalizado,6.251,-75.61914
+C00060,2025-03-29,10,La Candelaria,52.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.25663,-75.55711
+C00049,2025-02-27,Comuna 4,Aranjuez,15.0,F,Fiebre,Baja,Remitido,6.27987,-75.54905
+C00232,2025-06-12,9,Buenos Aires,57.0,M,Fiebre,Baja,Ambulatorio,6.22497,-75.5597
+C00203,2025-04-08,6,Doce de Octubre,30.0,F,Diarrea,Baja,Remitido,6.29669,-75.59041
+C00220,05/03/2025,8,Villa Hermosa,95.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.23559,-75.54448
+C00052,2025-02-28,2,Santa Cruz,61.0,M,Cefalea,Media,Remitido,6.29605,-75.5469
+C00118,02/14/2025,15,Guayabal,66.0,F,Tos persistente,Media,Remitido,6.22553,-75.59524
+C00317,2025-03-11,8,Villa Hermosa,18.0,M,Dificultad respiratoria,,Ambulatorio,6.24717,-75.54998
+C00071,2025-05-09,15,Guayabal,74.0,,Fiebre,Baja,Ambulatorio,6.231,-75.60084
+C00320,2125-05-07,Comuna 14,El Poblado,38.0,F,Dolor abdominal,Media,Ambulatorio,6.2016,-75.57324
+C00379,2025-04-13,16,Belén,71.0,F,Fiebre,Baja,Ambulatorio,6.21731,-75.60167
+C00021,2025-02-10,6,Doce de Octubre,55.0,M,Dolor abdominal,Baja,Ambulatorio,6.30005,-75.57855
+C00210,2025-03-17,8,Villa Hermosa,48.0,F,Tos persistente,Media,Ambulatorio,6.23648,-75.54153
+C00267,2025-04-24,15,Guayabal,17.0,F,Fiebre,Media,Ambulatorio,6.23088,-75.60155
+C00064,02/08/2025,10,La Candelaria,26.0,M,Diarrea,Baja,Ambulatorio,6.24358,-75.56252
+C00518,2025-06-21,3,Manrique,64.0,F,Cefalea,Baja,Ambulatorio,6.27749,-75.54231
+C00098,2025-02-15,2,Santa Cruz,29.0,F,Dificultad respiratoria,Baja,Remitido,6.28815,-75.55541
+C00447,05/14/2025,15,Guayabal,59.0,m,Fiebre,Baja,,6.21881,-75.58711
+C00172,2025-02-21,Comuna 10,La Candelaria,,F,Fiebre,Baja,Ambulatorio,6.24048,-75.56342
+C00273,2025-05-26,10,La Candelaria,5.0,F,Tos persistente,Baja,Remitido,6.25429,-75.56986
+C00329,2025-05-11,Comuna 12,La América,33.0,M,Dificultad respiratoria,Media,Ambulatorio,6.23788,-75.60424
+C00384,2025-05-16,15,Guayabal,43.0,M,Diarrea,Media,,6.21276,-75.59117
+C00109,2125-06-16,1,Popular,39.0,M,Cefalea,Baja,Remitido,6.30767,-145.5491
+C00033,2025-02-17,14,El Poblado,46.0,F,Cefalea,Baja,Ambulatorio,6.19931,-75.55818
+C00125,2025-02-10,14,El Poblado,52.0,F,Tos persistente,Media,Ambulatorio,6.21515,-75.55804
+C00183,2025-02-23,9,Buenos Aires,26.0,M,Dificultad respiratoria,,,6.22672,-75.55856
+C00257,2025-04-21,14,El Poblado,31.0,M,Fiebre,Media,Ambulatorio,6.21485,-75.57686
+C00099,2125-02-10,8,Villa Hermosa,24.0,F,Dolor abdominal,Baja,Ambulatorio,6.24035,-75.54117
+C00480,10-02-2025,5,Castilla,74.0,M,Fiebre,Baja,Remitido,6.28809,-75.56522
+C00093,2025-06-27,16,Belén,46.0,M,Diarrea,Media,Ambulatorio,6.21939,-75.62005
+C00039,2025-03-21,13,San Javier,34.0,F,Dificultad respiratoria,Alta,Ambulatorio,6.24792,-75.61564
+C00133,2025-06-30,11,Laureles,36.0,F,Diarrea,Media,,6.23675,-75.5963
+C00096,2025-06-08,2,Santa Cruz,71.0,M,Tos persistente,Alta,Remitido,6.30102,-75.55812
+C00459,2025-05-24,3,Manrique,43.0,M,Cefalea,Media,Ambulatorio,6.27229,-75.54938
+C00354,2025-02-18,14,El Poblado,23.0,M,Tos persistente,Baja,Ambulatorio,6.2089,-75.55804
+C00036,05/10/2025,9,Buenos Aires,60.0,F,Fiebre,Media,Ambulatorio,6.22815,-75.55631
+C00265,2025-06-07,3,Manrique,200.0,F,Dolor abdominal,,Ambulatorio,6.27147,-75.55568
+C00340,2025-03-19,10,La Candelaria,35.0,M,Tos persistente,Baja,Ambulatorio,6.25628,-75.56098
+C00420,2025-05-09,16,Belén,23.0,MASCULINO,Dolor abdominal,,Ambulatorio,6.22309,-75.6112
+C00086,2025-06-28,7,Robledo,15.0,F,Fiebre,Baja,Remitido,6.27007,-75.59674
+C00370,2025-04-11,5,Castilla,32.0,F,Dolor abdominal,Baja,Ambulatorio,6.30033,-75.56795
+C00215,2025-06-21,14,El Poblado,47.0,F,Fiebre,Media,Ambulatorio,6.20878,-75.56881
+C00270,2125-02-17,4,Aranjuez,47.0,F,Dolor abdominal,,Ambulatorio,6.27425,-75.5629
+C00419,2125-04-23,7,Robledo,54.0,F,Cefalea,Media,Ambulatorio,6.27111,-75.58352
+C00402,2025-03-10,8,Villa Hermosa,63.0,F,Diarrea,Media,Ambulatorio,6.23952,-75.54827
+C00222,2025-02-19,6,Doce de Octubre,44.0,F,Cefalea,Alta,Ambulatorio,6.29698,-75.59396
+C00230,2025-05-11,8,Villa Hermosa,15.0,F,Fiebre,Media,Ambulatorio,6.23976,-75.54345
+C00034,2025-03-07,12,La América,28.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.24292,-75.59853
+C00278,03-02-2025,11,Laureles,38.0,FEMENINO,Cefalea,Media,Ambulatorio,6.24196,-75.59282
+C00196,22-02-2025,14,El Poblado,37.0,F,Dolor abdominal,Baja,Remitido,6.19968,-75.56628
+C00433,2025-03-13,Guayabal,Guayabal,60.0,F,Tos persistente,Baja,Remitido,6.21782,-75.5918
+C00216,2025-06-21,9,Buenos Aires,22.0,M,Fiebre,,Ambulatorio,6.2186,-75.55397
+C00505,2025-07-01,11,Laureles,60.0,M,Fiebre,Baja,Ambulatorio,6.24195,-75.58433
+C00365,2025-05-24,12,La América,78.0,M,Tos persistente,Baja,Ambulatorio,6.25273,-75.59738
+C00360,2025-03-22,Manrique,Manrique,,M,Fiebre,Media,Ambulatorio,6.27562,-75.54949
+C00271,04/08/2025,12,La América,31.0,M,Dolor abdominal,Baja,Ambulatorio,6.25488,-75.61411
+C00497,2025-05-25,12,La América,12.0,F,Cefalea,Baja,Ambulatorio,6.24761,-75.60732
+C00488,12-03-2025,13,San Javier,20.0,M,Cefalea,Media,Ambulatorio,6.25231,-145.62729000000002
+C00070,2025-03-24,1,Popular,36.0,M,Fiebre,Baja,Hospitalizado,6.29308,-75.55912
+C00090,2025-05-09,2,Santa Cruz,84.0,M,Fiebre,Baja,Remitido,6.29253,-75.54855
+C00003,2025-04-15,7,Robledo,87.0,F,Dificultad respiratoria,,Ambulatorio,6.27674,-75.59083
+C00020,2025-06-17,6,Doce de Octubre,150.0,M,Diarrea,Alta,Ambulatorio,6.28738,-75.57844
+C00068,2025-02-16,5,Castilla,32.0,F,Tos persistente,Media,Ambulatorio,6.29633,-75.56601
+C00189,2025-05-12,10,La Candelaria,59.0,F,Dificultad respiratoria,Media,Hospitalizado,6.23861,-75.5755
+C00113,2025-03-05,15,Guayabal,,F,Tos persistente,Alta,Ambulatorio,6.21772,-75.58532
+C00308,2025-03-24,14,El Poblado,150.0,M,Dolor abdominal,Alta,Ambulatorio,6.21661,-75.56801
+C00417,2125-03-06,3,Manrique,34.0,M,Fiebre,,Ambulatorio,6.28677,-75.55627
+C00253,2025-05-25,9,Buenos Aires,17.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.23308,-75.54473
+C00335,2025-03-13,8,Villa Hermosa,41.0,M,Dificultad respiratoria,Baja,Ambulatorio,6.23542,-75.54804
+C00369,2025-04-12,5,Castilla,29.0,F,Tos persistente,Alta,Hospitalizado,6.29678,-75.56854
+C00044,2025-03-31,4,Aranjuez,20.0,M,Cefalea,Media,Remitido,6.2634,-75.55975
+C00399,2025-02-19,12,La América,69.0,m,Diarrea,Alta,Ambulatorio,6.25444,-75.6081
+C00321,03/17/2025,7,Robledo,32.0,M,Tos persistente,Media,Ambulatorio,6.2747,-75.59708
+C00067,2025-06-30,4,Aranjuez,14.0,M,Dolor abdominal,Media,Remitido,6.27747,-75.56443
+C00162,04/08/2025,Aranjuez,Aranjuez,58.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.27226,-75.55893
+C00213,2025-06-05,12,La América,95.0,M,Diarrea,,Ambulatorio,6.23969,-75.60561
+C00470,2025-02-05,5,Castilla,,F,Fiebre,Media,Remitido,6.29345,-75.56992
+C00165,2025-04-25,2,Santa Cruz,22.0,M,Dolor abdominal,Alta,Remitido,6.29977,-75.56364
+C00318,2025-06-20,9,Buenos Aires,45.0,F,Diarrea,Baja,Remitido,6.23133,-75.54667
+C00277,2125-04-02,11,Laureles,15.0,M,Fiebre,Baja,,6.23474,-75.59644
+C00195,2025-02-16,9,Buenos Aires,48.0,F,Dolor abdominal,Alta,Ambulatorio,6.22247,-75.56238
+C00471,2025-03-09,3,Manrique,93.0,M,Fiebre,Baja,Remitido,6.27042,-75.5495
+C00484,2025-04-11,13,San Javier,88.0,FEMENINO,Fiebre,Baja,,6.26009,-75.62647
+C00392,06/16/2025,12,La América,24.0,M,Cefalea,Media,Ambulatorio,6.24565,-75.60938
+C00015,2025-02-04,3,Manrique,38.0,F,Fiebre,Baja,Ambulatorio,6.2762,-75.55906
+C00252,2125-06-20,1,Popular,29.0,M,Dolor abdominal,Baja,Ambulatorio,6.29077,-75.55681
+C00397,2125-04-06,13,San Javier,57.0,F,Diarrea,Media,Ambulatorio,6.26528,-75.62324
+C00512,2025-06-13,5,Castilla,23.0,M,Dificultad respiratoria,Media,Hospitalizado,6.28417,-75.58114
+C00140,26-02-2025,Comuna 14,El Poblado,,F,Dolor abdominal,,Ambulatorio,6.2074,-75.56707
+C00076,2025-02-25,4,Aranjuez,49.0,F,Dificultad respiratoria,,Ambulatorio,6.27898,-75.56375
+C00080,2025-02-04,4,Aranjuez,48.0,F,Cefalea,Media,Ambulatorio,6.27469,-75.55419
+C00473,2025-06-24,1,Popular,24.0,F,Dificultad respiratoria,,Ambulatorio,6.29844,-75.54933
+C00023,06/16/2025,4,Aranjuez,26.0,F,Dolor abdominal,Baja,Ambulatorio,6.2677,-75.56501
+C00059,2025-06-18,1,Popular,14.0,F,Diarrea,Alta,Remitido,6.30812,-75.55893
+C00102,05/31/2025,16,Belén,10.0,M,Tos persistente,,Remitido,6.22392,-75.60834
+C00366,2025-05-31,7,Robledo,30.0,M,Dolor abdominal,Alta,Hospitalizado,6.28118,-75.59694
+C00289,2025-06-08,11,Laureles,16.0,F,Dificultad respiratoria,Baja,Ambulatorio,6.23692,-75.59386
+C00520,2025-03-19,8,Villa Hermosa,31.0,F,Cefalea,Media,Ambulatorio,6.24589,-75.54678
+C00074,2025-04-01,8,Villa Hermosa,24.0,M,Dolor abdominal,Media,Ambulatorio,6.24426,-75.53557
+C00260,05/12/2025,9,Buenos Aires,28.0,F,Dolor abdominal,Media,Remitido,6.23277,-75.55025
+C00312,2025-03-08,4,Aranjuez,50.0,M,Diarrea,,,6.26852,-75.55939
+C00160,2025-04-25,1,Popular,52.0,F,Dolor abdominal,Alta,Ambulatorio,6.29697,-75.55129
+C00217,2025-04-07,7,Robledo,47.0,F,Tos persistente,Media,Ambulatorio,6.276,-75.59292
+C00292,2025-04-13,8,Villa Hermosa,66.0,M,Dificultad respiratoria,Media,Ambulatorio,6.2351,-75.54253
+C00227,2025-03-16,4,Aranjuez,51.0,F,Dificultad respiratoria,Media,Remitido,6.26579,-75.56223
+C00468,2025-04-20,2,Santa Cruz,53.0,F,Dolor abdominal,Media,Ambulatorio,6.28504,-75.56073
+C00050,11-06-2025,14,El Poblado,25.0,M,Diarrea,Baja,Ambulatorio,6.20415,-75.56033
+C00153,2025-06-20,15,Guayabal,24.0,F,Fiebre,Baja,Ambulatorio,6.23019,-75.59652
+C00138,2025-03-09,12,La América,36.0,F,Cefalea,,Hospitalizado,6.24767,-75.61093
+C00422,2025-02-13,1,Popular,19.0,F,Dificultad respiratoria,Alta,Ambulatorio,6.30552,-75.54494
+C00482,2025-03-19,12,La América,49.0,M,Dificultad respiratoria,Alta,Remitido,6.25037,-75.60701
+C00293,2025-02-07,4,Aranjuez,60.0,F,Diarrea,Baja,Ambulatorio,6.26356,-75.5613
+C00004,2025-05-25,3,Manrique,,F,Fiebre,Baja,,6.28874,-75.55908
+C00513,13-02-2025,1,Popular,54.0,M,Dificultad respiratoria,Media,Ambulatorio,6.30134,-75.55439
+C00449,2025-05-22,15,Guayabal,40.0,F,Diarrea,Baja,Ambulatorio,6.22671,-75.58542
+C00246,2025-03-17,3,Manrique,12.0,F,Dificultad respiratoria,Media,Ambulatorio,6.27398,-75.54816
+C00297,2025-04-13,Comuna 9,Buenos Aires,32.0,F,Tos persistente,Baja,Remitido,6.23395,-75.55558
+C00250,2025-03-14,11,Laureles,46.0,F,Dificultad respiratoria,Alta,Remitido,6.23492,-75.59809
+C00031,2025-06-07,1,Popular,61.0,F,Fiebre,Baja,Ambulatorio,6.30547,-75.5535
+C00327,2025-06-07,16,Belén,67.0,F,Fiebre,Media,,6.2289,-75.61578
+C00478,2025-05-14,Comuna 2,Santa Cruz,47.0,M,Fiebre,Baja,Ambulatorio,6.28322,-75.54694
+C00352,2025-06-13,14,El Poblado,28.0,,Dolor abdominal,,Ambulatorio,6.21338,-75.56863
+C00362,2025-05-19,7,Robledo,43.0,FEMENINO,Dolor abdominal,Media,Ambulatorio,6.2725,-75.59625
+C00149,2025-02-03,11,Laureles,95.0,M,Fiebre,Media,Ambulatorio,6.24915,-75.58559
+C00414,2025-03-14,6,Doce de Octubre,32.0,M,Cefalea,Baja,Ambulatorio,6.29267,-75.59674
+C00464,2025-06-03,6,Doce de Octubre,49.0,M,Tos persistente,Baja,Ambulatorio,6.28957,-75.57801
+C00048,2025-04-28,2,Santa Cruz,47.0,M,Tos persistente,Media,Ambulatorio,6.28396,-75.54991
+C00117,2025-05-16,Castilla,Castilla,41.0,M,Fiebre,Baja,Remitido,6.28598,-75.57579
+C00202,2025-06-30,3,Manrique,12.0,F,Cefalea,Baja,Ambulatorio,6.28555,-75.54428
+C00018,2025-06-08,9,Buenos Aires,24.0,M,Fiebre,Baja,Ambulatorio,6.23479,-75.55692
+C00325,27-04-2025,3,Manrique,,F,Diarrea,Baja,Ambulatorio,6.28464,-75.54092
+C00026,2025-02-22,6,Doce de Octubre,95.0,F,Diarrea,Baja,Remitido,6.29566,-75.59284
+C00295,2025-06-19,3,Manrique,13.0,M,Tos persistente,,Ambulatorio,6.27539,-75.55544
+C00418,2025-06-30,5,Castilla,25.0,F,Diarrea,Baja,Ambulatorio,6.29704,-75.56725
+C00136,2025-02-26,11,Laureles,63.0,F,Cefalea,Baja,,6.24232,-75.58862
+C00481,2025-05-19,15,Guayabal,28.0,M,Cefalea,Baja,Remitido,6.23093,-75.58804
+C00028,2025-03-10,4,Aranjuez,60.0,F,Diarrea,Baja,Ambulatorio,6.26403,-75.55706
+C00439,2025-05-27,11,Laureles,22.0,F,Tos persistente,,Remitido,6.24803,-75.58851
+C00029,2025-04-27,11,Laureles,62.0,F,Diarrea,Baja,Ambulatorio,6.2467,-75.59927
+C00436,2025-04-15,15,Guayabal,29.0,F,Cefalea,Baja,Remitido,6.22424,-75.58505
+C00413,2025-04-17,Comuna 12,La América,39.0,M,Diarrea,Baja,Ambulatorio,6.25534,-75.6063
+C00334,05/20/2025,5,Castilla,52.0,F,Tos persistente,Baja,Ambulatorio,6.29697,-75.57969
+C00078,2025-02-04,16,Belén,86.0,F,Diarrea,Media,Ambulatorio,6.22271,-75.60965
+C00391,2025-05-24,11,Laureles,11.0,F,Diarrea,,Ambulatorio,6.24672,-75.58201
+C00258,2025-03-18,7,Robledo,44.0,F,Cefalea,Baja,Ambulatorio,6.26624,-75.59131

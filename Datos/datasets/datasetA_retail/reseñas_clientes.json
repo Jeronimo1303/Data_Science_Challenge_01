@@ -1,0 +1,1282 @@
+[
+  {
+    "review_id": "R0001",
+    "store_id": "S03",
+    "date": "2025-03-07",
+    "rating": 4,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0002",
+    "store_id": "S03",
+    "date": "2025-06-07",
+    "rating": 4,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0003",
+    "store_id": "S05",
+    "date": "2025-06-11",
+    "rating": 5,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0004",
+    "store_id": "S02",
+    "date": "2025-02-27",
+    "rating": null,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0005",
+    "store_id": "S06",
+    "date": "2025-01-06",
+    "rating": 4,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0006",
+    "store_id": "S07",
+    "date": "2025-01-13",
+    "rating": 4,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0007",
+    "store_id": "S08",
+    "date": "2025-06-22",
+    "rating": 2,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0008",
+    "store_id": "S02",
+    "date": "2025-01-03",
+    "rating": 3,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0009",
+    "store_id": "S05",
+    "date": "2025-04-13",
+    "rating": 5,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0010",
+    "store_id": "S08",
+    "date": "2025-02-15",
+    "rating": 5,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0011",
+    "store_id": "S07",
+    "date": "2025-04-10",
+    "rating": 2,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0012",
+    "store_id": "S07",
+    "date": "2025-04-01",
+    "rating": 4,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0013",
+    "store_id": "S03",
+    "date": "2025-01-12",
+    "rating": 3,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0014",
+    "store_id": "S03",
+    "date": "2025-01-09",
+    "rating": 4,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0015",
+    "store_id": "S06",
+    "date": "2025-03-05",
+    "rating": 5,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0016",
+    "store_id": "S02",
+    "date": "2025-01-02",
+    "rating": 2,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0017",
+    "store_id": "S07",
+    "date": "2025-06-21",
+    "rating": 2,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0018",
+    "store_id": "S03",
+    "date": "04/01/2025",
+    "rating": 4,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0019",
+    "store_id": "S03",
+    "date": "2025-06-08",
+    "rating": 2,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0020",
+    "store_id": "S03",
+    "date": "2025-01-14",
+    "rating": 4,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0021",
+    "store_id": "S05",
+    "date": "2025-02-25",
+    "rating": 3,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0022",
+    "store_id": "S07",
+    "date": "2025-03-11",
+    "rating": 5,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0023",
+    "store_id": "S08",
+    "date": "25/04/2025",
+    "rating": 4,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0024",
+    "store_id": "S04",
+    "date": "2025-03-16",
+    "rating": 4,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0025",
+    "store_id": "S08",
+    "date": "2025-02-04",
+    "rating": null,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0026",
+    "store_id": "S01",
+    "date": "23/02/2025",
+    "rating": 5,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0027",
+    "store_id": "S07",
+    "date": "2025-06-01",
+    "rating": 2,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0028",
+    "store_id": "S04",
+    "date": "2025-05-15",
+    "rating": 4,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0029",
+    "store_id": "S05",
+    "date": "2025-05-06",
+    "rating": 4,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0030",
+    "store_id": "S06",
+    "date": "08/02/2025",
+    "rating": 5,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0031",
+    "store_id": "S07",
+    "date": "2025-03-24",
+    "rating": 4,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0032",
+    "store_id": "S07",
+    "date": "2025-02-25",
+    "rating": 5,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0033",
+    "store_id": "S07",
+    "date": "2025-03-08",
+    "rating": null,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0034",
+    "store_id": "S06",
+    "date": "2025-06-06",
+    "rating": null,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0035",
+    "store_id": "S07",
+    "date": "2025-04-03",
+    "rating": 5,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0036",
+    "store_id": "S01",
+    "date": "2025-04-28",
+    "rating": 5,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0037",
+    "store_id": "S02",
+    "date": "2025-01-01",
+    "rating": null,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0038",
+    "store_id": "S07",
+    "date": "2025-01-11",
+    "rating": 5,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0039",
+    "store_id": "S08",
+    "date": "11/05/2025",
+    "rating": 2,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0040",
+    "store_id": "S07",
+    "date": "17/01/2025",
+    "rating": null,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0041",
+    "store_id": "S06",
+    "date": "2025-03-15",
+    "rating": null,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0042",
+    "store_id": "S06",
+    "date": "2025-05-05",
+    "rating": 3,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0043",
+    "store_id": "S02",
+    "date": "2025-01-13",
+    "rating": 2,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0044",
+    "store_id": "S03",
+    "date": "2025-06-16",
+    "rating": 5,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0045",
+    "store_id": "S05",
+    "date": "2025-05-30",
+    "rating": null,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0046",
+    "store_id": "S03",
+    "date": "2025-02-26",
+    "rating": 5,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0047",
+    "store_id": "S08",
+    "date": "2025-05-25",
+    "rating": 5,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0048",
+    "store_id": "S05",
+    "date": "2025-02-06",
+    "rating": 2,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0049",
+    "store_id": "S01",
+    "date": "2025-03-27",
+    "rating": 4,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0050",
+    "store_id": "S06",
+    "date": "2025-04-04",
+    "rating": 4,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0051",
+    "store_id": "S06",
+    "date": "2025-02-16",
+    "rating": 1,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0052",
+    "store_id": "S07",
+    "date": "30/06/2025",
+    "rating": 1,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0053",
+    "store_id": "S04",
+    "date": "2025-04-06",
+    "rating": 3,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0054",
+    "store_id": "S03",
+    "date": "2025-04-17",
+    "rating": 1,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0055",
+    "store_id": "S05",
+    "date": "18/06/2025",
+    "rating": 5,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0056",
+    "store_id": "S05",
+    "date": "2025-02-26",
+    "rating": 5,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0057",
+    "store_id": "S07",
+    "date": "2025-02-19",
+    "rating": 5,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0057",
+    "store_id": "S02",
+    "date": "2025-05-18",
+    "rating": 4,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0059",
+    "store_id": "S02",
+    "date": "14/05/2025",
+    "rating": 4,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0060",
+    "store_id": "S01",
+    "date": "2025-04-20",
+    "rating": 4,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0061",
+    "store_id": "S05",
+    "date": "2025-02-18",
+    "rating": 2,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0062",
+    "store_id": "S07",
+    "date": "2025-01-29",
+    "rating": 3,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0063",
+    "store_id": "S07",
+    "date": "2025-04-23",
+    "rating": 5,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0064",
+    "store_id": "S07",
+    "date": "2025-04-13",
+    "rating": 3,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0065",
+    "store_id": "S03",
+    "date": "2025-05-09",
+    "rating": 5,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0066",
+    "store_id": "S01",
+    "date": "2025-02-10",
+    "rating": 4,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0067",
+    "store_id": "S08",
+    "date": "2025-05-17",
+    "rating": 4,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0068",
+    "store_id": "S05",
+    "date": "2025-05-27",
+    "rating": 4,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0069",
+    "store_id": "S08",
+    "date": "2025-06-02",
+    "rating": 5,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0070",
+    "store_id": "S08",
+    "date": "28/03/2025",
+    "rating": 5,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0071",
+    "store_id": "S04",
+    "date": "2025-06-20",
+    "rating": 5,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0072",
+    "store_id": "S08",
+    "date": "2025-01-16",
+    "rating": 5,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0073",
+    "store_id": "S02",
+    "date": "2025-04-11",
+    "rating": 2,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0074",
+    "store_id": "S08",
+    "date": "2025-01-18",
+    "rating": 4,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0075",
+    "store_id": "S07",
+    "date": "2025-06-12",
+    "rating": 4,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0076",
+    "store_id": "S02",
+    "date": "2025-04-24",
+    "rating": null,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0077",
+    "store_id": "S08",
+    "date": "2025-03-29",
+    "rating": 5,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0078",
+    "store_id": "S08",
+    "date": "2025-05-10",
+    "rating": 4,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0079",
+    "store_id": "S08",
+    "date": "2025-05-31",
+    "rating": 5,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0080",
+    "store_id": "S03",
+    "date": "2025-06-06",
+    "rating": 1,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0081",
+    "store_id": "S08",
+    "date": "2025-01-23",
+    "rating": 5,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0082",
+    "store_id": "S05",
+    "date": "2025-02-24",
+    "rating": 4,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0083",
+    "store_id": "S08",
+    "date": "2025-06-12",
+    "rating": 4,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0084",
+    "store_id": "S08",
+    "date": "2025-01-20",
+    "rating": 4,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0085",
+    "store_id": "S03",
+    "date": "2025-03-11",
+    "rating": 5,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0086",
+    "store_id": "S08",
+    "date": "2025-05-03",
+    "rating": 5,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0087",
+    "store_id": "S01",
+    "date": "17/03/2025",
+    "rating": 3,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0088",
+    "store_id": "S03",
+    "date": "2025-05-14",
+    "rating": 3,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0089",
+    "store_id": "S02",
+    "date": "2025-03-18",
+    "rating": 5,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0090",
+    "store_id": "S04",
+    "date": "2025-05-11",
+    "rating": 4,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0091",
+    "store_id": "S08",
+    "date": "2025-03-14",
+    "rating": null,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0092",
+    "store_id": "S07",
+    "date": "2025-04-12",
+    "rating": null,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0093",
+    "store_id": "S06",
+    "date": "27/06/2025",
+    "rating": 5,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0094",
+    "store_id": "S03",
+    "date": "12/04/2025",
+    "rating": 4,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0095",
+    "store_id": "S03",
+    "date": "2025-04-11",
+    "rating": 4,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0096",
+    "store_id": "S04",
+    "date": "2025-04-02",
+    "rating": 5,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0097",
+    "store_id": "S08",
+    "date": "2025-01-20",
+    "rating": 2,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0098",
+    "store_id": "S06",
+    "date": "29/05/2025",
+    "rating": 4,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0098",
+    "store_id": "S04",
+    "date": "2025-01-14",
+    "rating": null,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0100",
+    "store_id": "S05",
+    "date": "2025-04-09",
+    "rating": 4,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0101",
+    "store_id": "S03",
+    "date": "2025-02-22",
+    "rating": 4,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0102",
+    "store_id": "S01",
+    "date": "2025-02-13",
+    "rating": 4,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0103",
+    "store_id": "S03",
+    "date": "2025-02-26",
+    "rating": 2,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0104",
+    "store_id": "S01",
+    "date": "2025-06-27",
+    "rating": 3,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0105",
+    "store_id": "S06",
+    "date": "2025-03-25",
+    "rating": 4,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0106",
+    "store_id": "S05",
+    "date": "2025-03-14",
+    "rating": 4,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0107",
+    "store_id": "S06",
+    "date": "2025-04-03",
+    "rating": 5,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0108",
+    "store_id": "S02",
+    "date": "2025-04-29",
+    "rating": 5,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0109",
+    "store_id": "S04",
+    "date": "2025-06-26",
+    "rating": 3,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0110",
+    "store_id": "S06",
+    "date": "2025-02-06",
+    "rating": null,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0111",
+    "store_id": "S07",
+    "date": "2025-01-14",
+    "rating": 4,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0112",
+    "store_id": "S04",
+    "date": "2025-06-19",
+    "rating": 3,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0113",
+    "store_id": "S03",
+    "date": "2025-03-29",
+    "rating": 5,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0114",
+    "store_id": "S04",
+    "date": "2025-01-07",
+    "rating": 3,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0115",
+    "store_id": "S08",
+    "date": "2025-04-30",
+    "rating": 5,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0116",
+    "store_id": "S03",
+    "date": "2025-05-07",
+    "rating": 2,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0117",
+    "store_id": "S05",
+    "date": "2025-02-22",
+    "rating": 5,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0118",
+    "store_id": "S03",
+    "date": "2025-04-14",
+    "rating": 5,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0119",
+    "store_id": "S02",
+    "date": "24/03/2025",
+    "rating": 5,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0120",
+    "store_id": "S08",
+    "date": "2025-04-13",
+    "rating": 5,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0121",
+    "store_id": "S07",
+    "date": "2025-01-06",
+    "rating": 2,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0122",
+    "store_id": "S06",
+    "date": "2025-05-19",
+    "rating": 4,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0123",
+    "store_id": "S01",
+    "date": "2025-04-25",
+    "rating": 5,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0124",
+    "store_id": "S08",
+    "date": "2025-03-29",
+    "rating": 5,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0125",
+    "store_id": "S02",
+    "date": "2025-04-12",
+    "rating": 4,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0126",
+    "store_id": "S05",
+    "date": "2025-04-25",
+    "rating": 5,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0127",
+    "store_id": "S02",
+    "date": "2025-04-30",
+    "rating": 5,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0128",
+    "store_id": "S05",
+    "date": "2025-02-02",
+    "rating": 5,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0129",
+    "store_id": "S07",
+    "date": "2025-01-12",
+    "rating": 2,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0130",
+    "store_id": "S06",
+    "date": "2025-03-10",
+    "rating": 5,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0131",
+    "store_id": "S08",
+    "date": "2025-05-02",
+    "rating": 2,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0132",
+    "store_id": "S04",
+    "date": "2025-04-19",
+    "rating": 5,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0133",
+    "store_id": "S05",
+    "date": "2025-03-07",
+    "rating": 5,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0134",
+    "store_id": "S04",
+    "date": "2025-02-24",
+    "rating": 3,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0135",
+    "store_id": "S05",
+    "date": "2025-01-02",
+    "rating": 4,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0136",
+    "store_id": "S06",
+    "date": "2025-02-25",
+    "rating": 3,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0137",
+    "store_id": "S08",
+    "date": "2025-05-09",
+    "rating": 4,
+    "text": "El pedido llegó incompleto",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0138",
+    "store_id": "S02",
+    "date": "2025-04-27",
+    "rating": 3,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0139",
+    "store_id": "S08",
+    "date": "2025-06-25",
+    "rating": 5,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0140",
+    "store_id": "S06",
+    "date": "2025-01-29",
+    "rating": 3,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0141",
+    "store_id": "S01",
+    "date": "2025-01-14",
+    "rating": 5,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0142",
+    "store_id": "S07",
+    "date": "2025-04-10",
+    "rating": 5,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0143",
+    "store_id": "S08",
+    "date": "2025-06-18",
+    "rating": 2,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0144",
+    "store_id": "S07",
+    "date": "2025-06-01",
+    "rating": null,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0145",
+    "store_id": "S02",
+    "date": "2025-05-26",
+    "rating": 5,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0146",
+    "store_id": "S04",
+    "date": "2025-05-01",
+    "rating": 3,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0147",
+    "store_id": "S07",
+    "date": "2025-02-11",
+    "rating": 4,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0148",
+    "store_id": "S01",
+    "date": "2025-03-06",
+    "rating": 3,
+    "text": "Atención rápida y amable",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0149",
+    "store_id": "S01",
+    "date": "2025-05-08",
+    "rating": 4,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0150",
+    "store_id": "S06",
+    "date": "2025-04-02",
+    "rating": 5,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0150",
+    "store_id": "S05",
+    "date": "2025-03-18",
+    "rating": 5,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0152",
+    "store_id": "S07",
+    "date": "2025-01-12",
+    "rating": 4,
+    "text": "Volveré pronto, todo delicioso",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0153",
+    "store_id": "S06",
+    "date": "2025-02-25",
+    "rating": 4,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0154",
+    "store_id": "S08",
+    "date": "2025-01-13",
+    "rating": 4,
+    "text": "Demasiado costoso para la calidad",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0155",
+    "store_id": "S04",
+    "date": "2025-05-04",
+    "rating": 2,
+    "text": "No había existencias del producto que quería",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0156",
+    "store_id": "S08",
+    "date": "2025-06-27",
+    "rating": 5,
+    "text": "Excelente atención",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0157",
+    "store_id": "S07",
+    "date": "2025-06-29",
+    "rating": 3,
+    "text": "El local estaba desordenado",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0158",
+    "store_id": "S01",
+    "date": "2025-04-26",
+    "rating": 4,
+    "text": "Regular, esperaba más",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0159",
+    "store_id": "S05",
+    "date": "2025-05-27",
+    "rating": 2,
+    "text": "Buena variedad de productos",
+    "sentiment": null
+  },
+  {
+    "review_id": "R0160",
+    "store_id": "S06",
+    "date": "2025-02-02",
+    "rating": 5,
+    "text": "Muy buen servicio y pan fresco",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,1530 @@
+[
+  {
+    "log_id": "L0001",
+    "timestamp": "2025-02-08T23:00:00",
+    "usuario_comuna": 16,
+    "sintomas_reportados": [
+      "Fiebre",
+      "Diarrea",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0002",
+    "timestamp": "2025-05-20T20:00:00",
+    "usuario_comuna": "Buenos Aires",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Diarrea",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 5,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0003",
+    "timestamp": "2025-04-21T20:00:00",
+    "usuario_comuna": 10,
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0004",
+    "timestamp": "2025-03-06T22:00:00",
+    "usuario_comuna": "El Poblado",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Diarrea",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0005",
+    "timestamp": "2025-04-29T23:00:00",
+    "usuario_comuna": "Buenos Aires",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0006",
+    "timestamp": "2025-03-12T02:00:00",
+    "usuario_comuna": 14,
+    "sintomas_reportados": [
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0007",
+    "timestamp": "2025-05-05T18:00:00",
+    "usuario_comuna": "El Poblado",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0008",
+    "timestamp": "2025-06-18T13:00:00",
+    "usuario_comuna": "Aranjuez",
+    "sintomas_reportados": [
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0009",
+    "timestamp": "2025-02-24T13:00:00",
+    "usuario_comuna": "La Candelaria",
+    "sintomas_reportados": [
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0010",
+    "timestamp": "2025-05-19T20:00:00",
+    "usuario_comuna": "Manrique",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0011",
+    "timestamp": "2025-05-07T00:00:00",
+    "usuario_comuna": 1,
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Tos persistente",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0012",
+    "timestamp": "2025-02-11T21:00:00",
+    "usuario_comuna": "Laureles",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 5,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0013",
+    "timestamp": "2025-05-02T17:00:00",
+    "usuario_comuna": "Villa Hermosa",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0014",
+    "timestamp": "2025-04-23T10:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0015",
+    "timestamp": "2025-06-02T03:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0016",
+    "timestamp": "2025-06-06T03:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0017",
+    "timestamp": "2025-05-27T03:00:00",
+    "usuario_comuna": "Buenos Aires",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Dolor abdominal",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0018",
+    "timestamp": "2025-06-03T07:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Tos persistente",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0019",
+    "timestamp": "2025-05-11T00:00:00",
+    "usuario_comuna": "El Poblado",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Fiebre",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0020",
+    "timestamp": "2025-03-04T09:00:00",
+    "usuario_comuna": "Robledo",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0021",
+    "timestamp": "2025-02-10T14:00:00",
+    "usuario_comuna": "Laureles",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0022",
+    "timestamp": "2025-06-12T18:00:00",
+    "usuario_comuna": "Robledo",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0023",
+    "timestamp": "2025-03-16T23:00:00",
+    "usuario_comuna": 11,
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0024",
+    "timestamp": "2025-06-30T23:00:00",
+    "usuario_comuna": "Guayabal",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Cefalea",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0025",
+    "timestamp": "2025-02-01T06:00:00",
+    "usuario_comuna": "Guayabal",
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0026",
+    "timestamp": "2025-02-09T15:00:00",
+    "usuario_comuna": 4,
+    "sintomas_reportados": [
+      "Fiebre",
+      "Diarrea",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0027",
+    "timestamp": "2025-05-18T07:00:00",
+    "usuario_comuna": 1,
+    "sintomas_reportados": [
+      "Cefalea",
+      "Tos persistente",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0028",
+    "timestamp": "2025-03-15T20:00:00",
+    "usuario_comuna": "La Candelaria",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0029",
+    "timestamp": "2025-02-19T17:00:00",
+    "usuario_comuna": "Aranjuez",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0030",
+    "timestamp": "2025-05-25T09:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0031",
+    "timestamp": "2025-02-21T16:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Dificultad respiratoria",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0032",
+    "timestamp": "2025-05-02T09:00:00",
+    "usuario_comuna": 5,
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0033",
+    "timestamp": "2025-05-03T11:00:00",
+    "usuario_comuna": "Robledo",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0034",
+    "timestamp": "2025-03-29T09:00:00",
+    "usuario_comuna": "Aranjuez",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0035",
+    "timestamp": "2025-05-16T05:00:00",
+    "usuario_comuna": "San Javier",
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0036",
+    "timestamp": "2025-03-19T18:00:00",
+    "usuario_comuna": "Aranjuez",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0037",
+    "timestamp": "2025-06-16T13:00:00",
+    "usuario_comuna": 12,
+    "sintomas_reportados": [
+      "Cefalea",
+      "Fiebre",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0038",
+    "timestamp": "2025-06-18T00:00:00",
+    "usuario_comuna": "La Candelaria",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Dolor abdominal",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0039",
+    "timestamp": "2025-05-10T11:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Dolor abdominal",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0040",
+    "timestamp": "2025-06-25T21:00:00",
+    "usuario_comuna": "Manrique",
+    "sintomas_reportados": [
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0041",
+    "timestamp": "2025-04-09T20:00:00",
+    "usuario_comuna": 4,
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Fiebre",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0042",
+    "timestamp": "2025-06-19T01:00:00",
+    "usuario_comuna": "Guayabal",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Dolor abdominal",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0043",
+    "timestamp": "2025-04-02T05:00:00",
+    "usuario_comuna": "Guayabal",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0044",
+    "timestamp": "2025-03-23T12:00:00",
+    "usuario_comuna": 6,
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0045",
+    "timestamp": "2025-03-29T16:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 5,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0046",
+    "timestamp": "2025-04-16T00:00:00",
+    "usuario_comuna": 14,
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 5,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0047",
+    "timestamp": "2025-02-04T00:00:00",
+    "usuario_comuna": "Manrique",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Diarrea",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0048",
+    "timestamp": "2025-03-03T07:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0049",
+    "timestamp": "2025-06-17T10:00:00",
+    "usuario_comuna": "Aranjuez",
+    "sintomas_reportados": [
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0050",
+    "timestamp": "2025-02-02T08:00:00",
+    "usuario_comuna": "Laureles",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0051",
+    "timestamp": "2025-04-16T17:00:00",
+    "usuario_comuna": 9,
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0052",
+    "timestamp": "2025-02-13T04:00:00",
+    "usuario_comuna": "El Poblado",
+    "sintomas_reportados": [
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0053",
+    "timestamp": "2025-05-18T18:00:00",
+    "usuario_comuna": "Buenos Aires",
+    "sintomas_reportados": [
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0054",
+    "timestamp": "2025-04-28T14:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0055",
+    "timestamp": "2025-03-20T16:00:00",
+    "usuario_comuna": "Laureles",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Fiebre",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0056",
+    "timestamp": "2025-02-02T11:00:00",
+    "usuario_comuna": "Manrique",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0057",
+    "timestamp": "2025-03-30T01:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0058",
+    "timestamp": "2025-02-24T22:00:00",
+    "usuario_comuna": "El Poblado",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0059",
+    "timestamp": "2025-05-06T19:00:00",
+    "usuario_comuna": "Villa Hermosa",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Tos persistente",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0060",
+    "timestamp": "2025-03-01T15:00:00",
+    "usuario_comuna": "San Javier",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0061",
+    "timestamp": "2025-06-20T12:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0062",
+    "timestamp": "2025-02-02T13:00:00",
+    "usuario_comuna": 2,
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Dolor abdominal",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0063",
+    "timestamp": "2025-04-12T18:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0064",
+    "timestamp": "2025-05-17T19:00:00",
+    "usuario_comuna": 4,
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0065",
+    "timestamp": "2025-02-20T17:00:00",
+    "usuario_comuna": "Robledo",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0066",
+    "timestamp": "2025-03-13T04:00:00",
+    "usuario_comuna": "Villa Hermosa",
+    "sintomas_reportados": [
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0067",
+    "timestamp": "2025-06-20T14:00:00",
+    "usuario_comuna": 16,
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0068",
+    "timestamp": "2025-03-13T22:00:00",
+    "usuario_comuna": "Laureles",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Dificultad respiratoria",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0069",
+    "timestamp": "2025-05-03T05:00:00",
+    "usuario_comuna": 14,
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0070",
+    "timestamp": "2025-02-14T02:00:00",
+    "usuario_comuna": "Robledo",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0071",
+    "timestamp": "2025-06-16T07:00:00",
+    "usuario_comuna": 4,
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0072",
+    "timestamp": "2025-05-20T11:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0073",
+    "timestamp": "2025-02-16T09:00:00",
+    "usuario_comuna": "Belén",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0074",
+    "timestamp": "2025-05-24T07:00:00",
+    "usuario_comuna": 8,
+    "sintomas_reportados": [
+      "Diarrea",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0075",
+    "timestamp": "2025-02-15T05:00:00",
+    "usuario_comuna": "Guayabal",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0076",
+    "timestamp": "2025-03-10T20:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0077",
+    "timestamp": "2025-03-04T00:00:00",
+    "usuario_comuna": "Castilla",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0078",
+    "timestamp": "2025-02-07T14:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0079",
+    "timestamp": "2025-05-22T08:00:00",
+    "usuario_comuna": "Villa Hermosa",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Cefalea",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0080",
+    "timestamp": "2025-02-04T04:00:00",
+    "usuario_comuna": 7,
+    "sintomas_reportados": [
+      "Cefalea",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0081",
+    "timestamp": "2025-06-14T10:00:00",
+    "usuario_comuna": "Buenos Aires",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Dolor abdominal",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0082",
+    "timestamp": "2025-04-25T10:00:00",
+    "usuario_comuna": "Aranjuez",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0083",
+    "timestamp": "2025-02-23T01:00:00",
+    "usuario_comuna": "Aranjuez",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Dolor abdominal",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0084",
+    "timestamp": "2025-02-26T16:00:00",
+    "usuario_comuna": 12,
+    "sintomas_reportados": [
+      "Fiebre",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0085",
+    "timestamp": "2025-04-15T09:00:00",
+    "usuario_comuna": 8,
+    "sintomas_reportados": [
+      "Cefalea",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0086",
+    "timestamp": "2025-02-17T05:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Diarrea",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0087",
+    "timestamp": "2025-02-22T12:00:00",
+    "usuario_comuna": "Villa Hermosa",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0088",
+    "timestamp": "2025-05-23T10:00:00",
+    "usuario_comuna": "Villa Hermosa",
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0089",
+    "timestamp": "2025-05-25T13:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0090",
+    "timestamp": "2025-04-26T08:00:00",
+    "usuario_comuna": "Robledo",
+    "sintomas_reportados": [
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0091",
+    "timestamp": "2025-05-29T12:00:00",
+    "usuario_comuna": "La Candelaria",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0092",
+    "timestamp": "2025-03-26T15:00:00",
+    "usuario_comuna": 6,
+    "sintomas_reportados": [
+      "Diarrea",
+      "Fiebre",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0093",
+    "timestamp": "2025-05-11T13:00:00",
+    "usuario_comuna": "San Javier",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Dolor abdominal",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 5,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0094",
+    "timestamp": "2025-02-10T09:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0095",
+    "timestamp": "2025-06-13T03:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0096",
+    "timestamp": "2025-05-18T04:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0097",
+    "timestamp": "2025-05-04T01:00:00",
+    "usuario_comuna": "Guayabal",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0098",
+    "timestamp": "2025-05-18T08:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Diarrea",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 5,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0099",
+    "timestamp": "2025-04-29T16:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0100",
+    "timestamp": "2025-04-26T04:00:00",
+    "usuario_comuna": 7,
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0101",
+    "timestamp": "2025-04-28T22:00:00",
+    "usuario_comuna": 5,
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0102",
+    "timestamp": "2025-02-06T09:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0103",
+    "timestamp": "2025-06-20T06:00:00",
+    "usuario_comuna": 5,
+    "sintomas_reportados": [
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0104",
+    "timestamp": "2025-03-29T00:00:00",
+    "usuario_comuna": "Belén",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 5,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0105",
+    "timestamp": "2025-05-13T05:00:00",
+    "usuario_comuna": "Laureles",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0106",
+    "timestamp": "2025-03-07T00:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0107",
+    "timestamp": "2025-05-29T18:00:00",
+    "usuario_comuna": 2,
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0108",
+    "timestamp": "2025-04-06T03:00:00",
+    "usuario_comuna": "Belén",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Cefalea",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 7,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0109",
+    "timestamp": "2025-04-30T02:00:00",
+    "usuario_comuna": "San Javier",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Tos persistente",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0110",
+    "timestamp": "2025-02-28T23:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0111",
+    "timestamp": "2025-05-03T13:00:00",
+    "usuario_comuna": "Belén",
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0112",
+    "timestamp": "2025-03-12T11:00:00",
+    "usuario_comuna": 11,
+    "sintomas_reportados": [
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0113",
+    "timestamp": "2025-03-29T03:00:00",
+    "usuario_comuna": "Belén",
+    "sintomas_reportados": [
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0114",
+    "timestamp": "2025-06-21T19:00:00",
+    "usuario_comuna": "Buenos Aires",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0115",
+    "timestamp": "2025-03-17T07:00:00",
+    "usuario_comuna": "Guayabal",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0116",
+    "timestamp": "2025-04-10T05:00:00",
+    "usuario_comuna": "Guayabal",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Diarrea",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0117",
+    "timestamp": "2025-05-26T02:00:00",
+    "usuario_comuna": "La Candelaria",
+    "sintomas_reportados": [
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0118",
+    "timestamp": "2025-05-05T10:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 10,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0119",
+    "timestamp": "2025-05-19T06:00:00",
+    "usuario_comuna": "Buenos Aires",
+    "sintomas_reportados": [
+      "Dificultad respiratoria",
+      "Tos persistente",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0120",
+    "timestamp": "2025-04-01T11:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Fiebre",
+      "Diarrea",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": 3,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0121",
+    "timestamp": "2025-03-23T07:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0122",
+    "timestamp": "2025-03-04T10:00:00",
+    "usuario_comuna": "El Poblado",
+    "sintomas_reportados": [
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0123",
+    "timestamp": "2025-04-21T15:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0124",
+    "timestamp": "2025-04-30T23:00:00",
+    "usuario_comuna": "La América",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0125",
+    "timestamp": "2025-02-14T22:00:00",
+    "usuario_comuna": "Buenos Aires",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 8,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0126",
+    "timestamp": "2025-06-19T20:00:00",
+    "usuario_comuna": 3,
+    "sintomas_reportados": [
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0127",
+    "timestamp": "2025-06-25T09:00:00",
+    "usuario_comuna": "Castilla",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Dificultad respiratoria",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0128",
+    "timestamp": "2025-06-09T14:00:00",
+    "usuario_comuna": 4,
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 5,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0129",
+    "timestamp": "2025-06-21T13:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0130",
+    "timestamp": "2025-05-04T07:00:00",
+    "usuario_comuna": "Robledo",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0131",
+    "timestamp": "2025-03-15T02:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Diarrea"
+    ],
+    "severidad_autoreportada": 6,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0132",
+    "timestamp": "2025-03-13T05:00:00",
+    "usuario_comuna": "Villa Hermosa",
+    "sintomas_reportados": [
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0133",
+    "timestamp": "2025-02-19T14:00:00",
+    "usuario_comuna": "Popular",
+    "sintomas_reportados": [
+      "Diarrea",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0134",
+    "timestamp": "2025-04-02T16:00:00",
+    "usuario_comuna": "Doce de Octubre",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Tos persistente"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0135",
+    "timestamp": "2025-03-27T07:00:00",
+    "usuario_comuna": 3,
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Tos persistente",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 1,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0136",
+    "timestamp": "2025-03-17T09:00:00",
+    "usuario_comuna": 3,
+    "sintomas_reportados": [
+      "Dolor abdominal",
+      "Dificultad respiratoria"
+    ],
+    "severidad_autoreportada": 2,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0137",
+    "timestamp": "2025-02-07T13:00:00",
+    "usuario_comuna": "Robledo",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 4,
+    "dispositivo": "iOS"
+  },
+  {
+    "log_id": "L0138",
+    "timestamp": "2025-05-20T15:00:00",
+    "usuario_comuna": "San Javier",
+    "sintomas_reportados": [
+      "Tos persistente",
+      "Fiebre",
+      "Cefalea"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Web"
+  },
+  {
+    "log_id": "L0139",
+    "timestamp": "2025-02-21T19:00:00",
+    "usuario_comuna": "Manrique",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Dificultad respiratoria",
+      "Fiebre"
+    ],
+    "severidad_autoreportada": 9,
+    "dispositivo": "Android"
+  },
+  {
+    "log_id": "L0140",
+    "timestamp": "2025-06-14T12:00:00",
+    "usuario_comuna": "Santa Cruz",
+    "sintomas_reportados": [
+      "Cefalea",
+      "Dificultad respiratoria",
+      "Dolor abdominal"
+    ],
+    "severidad_autoreportada": null,
+    "dispositivo": "Android"
+  }
+]
