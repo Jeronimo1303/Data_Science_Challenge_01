@@ -7,11 +7,11 @@
 
 **Integrantes del equipo:**
 
-| Nombre completo | Cédula         |
-| --------------- | -------------- |
-| [Nombre 1]      | [N° de cédula] |
-| [Nombre 2]      | [N° de cédula] |
-| [Nombre 3]      | [N° de cédula] |
+| Nombre completo   | Cédula         |
+| ---------------   | -------------- |
+| Santiago Acevedo  | [N° de cédula] |
+| Santiago Betancur | [N° de cédula] |
+| Jeronimo Acosta   | 1000410386     |
 
 ---
 
