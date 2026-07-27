@@ -1,0 +1,4 @@
+- Toda la base de código fue construida y validada usando el modelo de Claude 'Sonnet 5'.
+- Las justificaciones, tanto dentro del archivo Jupyter como en el taller práctico, fueron realizadas por nuestras propias manos, con mínima/cero interferencia por parte de la IA.
+- Las redacciones se mejoraron con Claude partiendo de una redacción propia. El modelo también fue usado para aclarar conceptos y encontrar fuentes de información. 
+- Las conclusiones y justificaciones ante la pregunta de negocio se realizaron a partir de nuestras propias conclusiones, no de aquellas encontradas por el modelo.
